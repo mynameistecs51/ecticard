@@ -1,5 +1,5 @@
 <?php include 'header.html';?>
-
-<img src="files/paper.jpg" alt="" width="100%" >
-
+<div class="showpaper">
+	<img src="files/paper.jpg" alt="" width="100%" >
+</div>
 <?php include 'footer.html';?>
