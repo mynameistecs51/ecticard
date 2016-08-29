@@ -140,8 +140,7 @@
 <!-- /.row -->
 <div class="row">
 	<div class="col-sm-12"><h2 class="page-header">การเดินทาง  </h2></div>
-	<li>สายการบิน นกแอร์</li>
-	<li>สายการบินแอร์เอเชีย</li>
+	<img src="assets/img/flight.png" alt="" >
 	<hr>
 </div>
 <div class="row">
