@@ -76,7 +76,7 @@
       							<ul class="dropdown-menu" >
       								<li><a href="#">WELCOME MESSAGE</a></li>
       								<li><a href="#">KEYNOTE SPEAKER</a></li>
-      								<li><a href="#">COMMITTEE</a></li>
+      								<li><a href="committee.php">COMMITTEE</a></li>
       							</ul>
       						</li>
       						<li role="presentation" class="dropdown">

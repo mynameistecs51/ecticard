@@ -135,17 +135,45 @@
 			อีเมล์ : chiangkhanriver@gmail.com ไอดีไลน์:chiangkhan.rm
 			GPS. N17.53280, E101.38120
 		</p>
+
+		<p>
+			ที่มา/เว็บไซต์โรงแรม : <a href ="http://www.chiangkhanrivermountain.com/th/index.php">เชียงคานริเวอร์เมาเทน</a>
+		</p>
 	</div>
 </div>
 <!-- /.row -->
 <div class="row">
 	<div class="col-sm-12"><h2 class="page-header">การเดินทาง  </h2></div>
-	<img src="assets/img/flight.png" alt="" >
+	<div class="col-sm-4">
+		<span class="page-header text-danger"><u>ขาเข้า</u></span>
+		<a class="lightbox thumbnail" href="assets/img/flight.png" data-littlelightbox-group="gallery" title="สายการบินขาเข้า  วันที่ 25/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;"/></a>
+		<label>
+			เช็คสายการบิน :
+			<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
+			<a href="https://booking.airasia.com/Flight/Select?o1=DMK&d1=LOE&dd1=2017-07-25&ADT=1&CHD=0&inl=0&s=false&mon=true&cc=THB"  target="_blank">AIR ASIA</a>
+		</label>
+	</div>
+	<div class="col-sm-4">
+		<span class="page-header text-danger"><u>ขาออกวันที่ 28/7/2560</u></span>
+		<a class="lightbox thumbnail" href="assets/img/flightOut28.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 28/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;"/></a>
+		<label>
+			เช็คสายการบิน :
+			<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
+			<a href="https://booking.airasia.com/Flight/Select?o1=LOE&d1=DMK&culture=th-TH&dd1=2017-07-28&ADT=1&CHD=0&inl=0&s=true&mon=true&cc=THB&c=false"  target="_blank">AIR ASIA</a>
+		</label>
+	</div>
+	<div class="col-sm-4">
+		<span class="page-header text-danger"><u>ขาออกวันที่ 29/7/2560</u></span>
+		<a class="lightbox thumbnail" href="assets/img/flightOut29.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;"/></a>
+		<label>
+			เช็คสายการบิน :
+			 <a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
+			<a href="https://booking.airasia.com/Flight/Select?o1=LOE&d1=DMK&culture=th-TH&dd1=2017-07-29&ADT=1&CHD=0&inl=0&s=true&mon=true&cc=THB&c=false"  target="_blank">AIR ASIA</a>
+		</label>
+	</div>
 	<hr>
 </div>
-<div class="row">
-	ที่มา/เว็บไซต์โรงแรม : <a href ="http://www.chiangkhanrivermountain.com/th/index.php">เชียงคานริเวอร์เมาเทน</a>
-</div>
+
 <script>
 	$('.lightbox').littleLightBox();
 </script>

@@ -22,7 +22,7 @@
 <div class="row">
 	<div class="col-sm-6 col-md-4">
 		<div class="thumbnail">
-			<img src="assets/img/udru.gif" alt="..." style="width: 200px;">
+			<img src="assets/img/sakon.gif" alt="..." style="width: 200px;">
 			<div class="caption text-center">
 				<h3>มหาวิทยาลัยราชภัฏสกลนคร</h3>
 			</div>
@@ -44,7 +44,7 @@
 <div class="row">
 	<div class="col-sm-6 col-md-4">
 		<div class="thumbnail">
-			<img src="assets/img/lur.gif" alt="..." style="width: 200px;">
+			<img src="assets/img/lru.gif" alt="..." style="width: 400px;">
 			<div class="caption text-center">
 				<h3>มหาวิทยาลัยราชภัฏเลย</h3>
 			</div>
