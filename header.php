@@ -31,11 +31,7 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
-<<<<<<< HEAD
-       
-=======
 
->>>>>>> origin/master
         <style type="text/css">
          body {
           background: url('assets/img/img.jpg');
@@ -48,17 +44,6 @@
         }
       </style>
       <style>
-<<<<<<< HEAD
-        .back-to-top .affix-top {
-          position: absolute; /* allows it to "slide" up into view */
-          bottom: -82px;
-          right: 10px;
-        }
-        .back-to-top .affix {
-          position: fixed; /* keeps it on the bottom once in view */
-          bottom: 18px;
-          right: 10px;
-=======
         .back-to-top{
           position: fixed; /* allows it to "slide" up into view */
           /*bottom: -82px;*/
@@ -66,7 +51,6 @@
           right: 0px;
           bottom: 0px;
           z-index: 100;
->>>>>>> origin/master
         }
       </style>
     </head>
