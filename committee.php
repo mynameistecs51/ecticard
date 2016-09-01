@@ -1,10 +1,10 @@
 <?php include "header.php";?>
 <div class="row">
 	<table  width="100%">
-		<tr >
+		<tr>
 			<td>
 				<h3 class="page-header text-danger">Chair Person</h3>
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-4">
 					<div class="thumbnail">
 						<img src="assets/img/headUdru.jpg" alt="..." style="width: 200px; height:270px; ">
 						<div class="caption text-center">
@@ -12,7 +12,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-4">
 					<div class="thumbnail">
 						<img src="assets/img/headLru.jpg" alt="..." style="width: 200px; height:270px; ">
 						<div class="caption text-center">
@@ -20,7 +20,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-4">
 					<div class="thumbnail">
 						<img src="assets/img/headSakon.jpg" alt="..." style="width: 200px; height:270px; ">
 						<div class="caption text-center">
