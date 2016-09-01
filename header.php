@@ -31,89 +31,102 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
+       
         <style type="text/css">
-        	body {
-        		background: url('assets/img/img.jpg');
-        		background-repeat: no-repeat;
-        		background-position: center;
-        		background-size:cover;
-        		background-attachment: fixed;
-        		width: 100%;
-        		height: 100%;
-        	}
-        </style>
-      </head>
+         body {
+          background: url('assets/img/img.jpg');
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size:cover;
+          background-attachment: fixed;
+          width: 100%;
+          height: 100%;
+        }
+      </style>
+      <style>
+        .back-to-top .affix-top {
+          position: absolute; /* allows it to "slide" up into view */
+          bottom: -82px;
+          right: 10px;
+        }
+        .back-to-top .affix {
+          position: fixed; /* keeps it on the bottom once in view */
+          bottom: 18px;
+          right: 10px;
+        }
+      </style>
+    </head>
 
-      <body>
-      	<div class="col-sm-1"></div>
-      	<div class="col-sm-10" style="margin-top: -60px;">
-      		<img src="assets/img/header.jpg" alt="" style="width:100%;border-radius:10px 10px 0px 0px;">
-      		<!-- Navigation -->
-      		<nav class="navbar navbar-default navbar-default" role="navigation">
-      			<div class="container">
-      				<!-- Brand and toggle get grouped for better mobile display -->
-      				<div class="navbar-header">
-      					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-      						<span class="sr-only">Toggle navigation</span>
-      						<span class="icon-bar"></span>
-      						<span class="icon-bar"></span>
-      						<span class="icon-bar"></span>
-      					</button>
-      					<a class="navbar-brand" href="#">
-      						<!-- <img src="http://placehold.it/150x50&text=Logo" alt=""> -->
-      					</a>
-      				</div>
-      				<!-- Collect the nav links, forms, and other content for toggling -->
-      				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      					<ul class="nav navbar-nav">
-      						<li>
-      							<a href="index.php">HOME</a>
-      						</li>
-      						<li role="presentation" class="dropdown">
-      							<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-      								ECTI-CARD 2017 <span class="caret"></span>
-      							</a>
-      							<ul class="dropdown-menu" >
-      								<li><a href="#">WELCOME MESSAGE</a></li>
-      								<li><a href="#">KEYNOTE SPEAKER</a></li>
-      								<li><a href="committee.php">COMMITTEE</a></li>
-      							</ul>
-      						</li>
-      						<li role="presentation" class="dropdown">
-      							<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-      								PAPER <span class="caret"></span>
-      							</a>
-      							<ul class="dropdown-menu" >
-      								<li><a href="index.php">CALL FOR PAPER</a></li>
-      								<li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
-      								<li><a href="downloadForm.php">DOWNLOAD FORM</a></li>
-      							</ul>
-      						</li>
-      						<li>
-      							<a href="regis.php">REGISTRATION</a>
-      						</li>
-      						<li><a href="accommodation.php">ACCOMMODATION</a></li>
-      						<li role="presentation" class="dropdown">
-      							<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-      								JOURNEY <span class="caret"></span>
-      							</a>
-      							<ul class="dropdown-menu" >
-      								<li><a href="#">TOUR</a></li>
-      							</ul>
-      						</li>
-      						<li><a href="sponsor.php">SPONSOR</a></li>
-      						<li><a href="contact.php">CONTACT</a></li>
-      						<li><a href="host.php">HOST</a></li>
-      					</ul>
-      				</div>
-      				<!-- /.navbar-collapse -->
-      			</div>
-      			<!-- /.container -->
-      		</nav>
+    <body>
+     <div class="col-sm-1"></div>
+     <div class="col-sm-10" style="margin-top: -60px;">
+      <img src="assets/img/header.jpg" alt="" style="width:100%;border-radius:10px 10px 0px 0px;">
+      <!-- Navigation -->
+      <nav class="navbar navbar-default navbar-default" role="navigation">
+       <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">
+          <!-- <img src="http://placehold.it/150x50&text=Logo" alt=""> -->
+        </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="index.php">HOME</a>
+       </li>
+       <li role="presentation" class="dropdown">
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+          ECTI-CARD 2017 <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" >
+          <li><a href="#">WELCOME MESSAGE</a></li>
+          <li><a href="#">KEYNOTE SPEAKER</a></li>
+          <li><a href="committee.php">COMMITTEE</a></li>
+        </ul>
+      </li>
+      <li role="presentation" class="dropdown">
+       <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+        PAPER <span class="caret"></span>
+      </a>
+      <ul class="dropdown-menu" >
+        <li><a href="index.php">CALL FOR PAPER</a></li>
+        <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
+        <li><a href="downloadForm.php">DOWNLOAD FORM</a></li>
+      </ul>
+    </li>
+    <li>
+     <a href="regis.php">REGISTRATION</a>
+   </li>
+   <li><a href="accommodation.php">ACCOMMODATION</a></li>
+   <li role="presentation" class="dropdown">
+     <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      JOURNEY <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" >
+      <li><a href="#">TOUR</a></li>
+    </ul>
+  </li>
+  <li><a href="sponsor.php">SPONSOR</a></li>
+  <li><a href="contact.php">CONTACT</a></li>
+  <li><a href="host.php">HOST</a></li>
+</ul>
+</div>
+<!-- /.navbar-collapse -->
+</div>
+<!-- /.container -->
+</nav>
 
-      		<!-- Page Content -->
+<!-- Page Content -->
 
-      		<!-- Call to Action Well -->
-      		<div class="container well col-sm-12 " >
-            <div class="col-sm-1"></div>
-            <div class="col-sm-10"">
+<!-- Call to Action Well -->
+<div class="container well col-sm-12 " >
+  <div class="col-sm-1"></div>
+  <div class="col-sm-10"">
