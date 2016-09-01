@@ -42,8 +42,7 @@
           width: 100%;
           height: 100%;
         }
-      </style>
-      <style>
+
         .back-to-top{
           position: fixed; /* allows it to "slide" up into view */
           /*bottom: -82px;*/

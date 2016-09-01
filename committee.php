@@ -1,8 +1,8 @@
 <?php include "header.php";?>
 <div class="row">
-	<table  width="100%">
-		<tr>
-			<td>
+	<table  width="100%" class="table">
+		<tr >
+			<td >
 				<h3 class="page-header text-danger">Chair Person</h3>
 				<div class="col-sm-4">
 					<div class="thumbnail">
@@ -30,7 +30,7 @@
 				</div>
 			</td>
 		</tr>
-		<tr>
+		<tr >
 			<td >
 				<div class="col-sm-6 col-md-4"></div>
 				<div class="col-sm-6 col-md-4">
@@ -59,10 +59,10 @@
 		</td>
 	</tr>
 	<tr>
-		<td>	
+		<td>
 			<h3 class="page-header text-danger">Advisory</h3>
-			<div class="col-sm-4">		
-				<table  width="100%" class="table table-striped ">
+			<div class="col-sm-4">
+				<table  width="100%" class="table table-striped col-sm-12">
 					<tr >
 						<td>อธิการบดี มหาวิทยาลัยราชภัฏอุดรธานี</td>
 					</tr>
@@ -85,40 +85,40 @@
 			<td >
 				<h3 class="page-header text-danger">General Co-Chair</h3>
 				<div class="col-sm-5">
-					<table width="100%" class="table table-striped ">
+					<table width="100%" class="table table-striped col-sm-12">
 						<tr >
-							<td>รศ.ดร.สมศักดิ์</td>							
-							<td>ชุ่มช่วย</td>							
+							<td>รศ.ดร.สมศักดิ์</td>
+							<td>ชุ่มช่วย</td>
 							<td>(ECTI,สจล)</td>
-						</tr>	
+						</tr>
 						<tr >
-							<td>คุณ อัจฉรา </td>							
-							<td>เจริญสุข</td>							
+							<td>คุณ อัจฉรา </td>
+							<td>เจริญสุข</td>
 							<td> (มว.)</td>
-						</tr>	
+						</tr>
 						<tr >
-							<td>ศ.ดร.โกสินทร์</td>							
-							<td> จำนงไทย</td>							
+							<td>ศ.ดร.โกสินทร์</td>
+							<td> จำนงไทย</td>
 							<td> (มจธ.)</td>
-						</tr>	
+						</tr>
 						<tr >
-							<td>ดร.สุทธิพงศ์</td>							
-							<td> เปรื่องค้า</td>							
+							<td>ดร.สุทธิพงศ์</td>
+							<td> เปรื่องค้า</td>
 							<td> (มรภ. อุดรธานี)</td>
-						</tr>		
+						</tr>
 						<tr >
-							<td>รศ.ดร.อลงกรณ์</td>							
-							<td> พรมที </td>							
+							<td>รศ.ดร.อลงกรณ์</td>
+							<td> พรมที </td>
 							<td>(มรภ. อุดรธานี)</td>
 						</tr>
-						<tr>						
-							<td>ผศ.ปรีชาศาสตร์ </td>							
-							<td> มีเกาะ </td>							
+						<tr>
+							<td>ผศ.ปรีชาศาสตร์ </td>
+							<td> มีเกาะ </td>
 							<td>(มรภ. สกลนคร)</td>
 						</tr>
-						<tr>						
-							<td>ดร.ชัยยศ </td>							
-							<td>คำมี </td>							
+						<tr>
+							<td>ดร.ชัยยศ </td>
+							<td>คำมี </td>
 							<td>(มรภ. เลย)</td>
 						</tr>
 					</table>
@@ -129,22 +129,22 @@
 			<td >
 				<h3 class="page-header text-danger">Technical Program Chairs</h3>
 				<div class="col-sm-4">
-					<table width="100%" class="table table-striped ">
+					<table width="100%" class="table table-striped col-sm-12">
 						<tr >
-							<td>รศ.ดร.อนันต์ </td>							
-							<td>ผลเพิ่ม </td>							
+							<td>รศ.ดร.อนันต์ </td>
+							<td>ผลเพิ่ม </td>
 							<td>(มก.)</td>
 						</tr>
 						<tr>
-							<td>ดร.ชัยวัฒน์ </td>							
-							<td>เจษฎาจินต์ </td>							
+							<td>ดร.ชัยวัฒน์ </td>
+							<td>เจษฎาจินต์ </td>
 							<td>(มว.)</td>
 						</tr>
 						<tr>
-							<td>ดร.สุชาดา</td>							
-							<td> ตันติสถิระพงษ์</td>							
+							<td>ดร.สุชาดา</td>
+							<td> ตันติสถิระพงษ์</td>
 							<td> (มศว.)</td>
-						</tr>			
+						</tr>
 					</table>
 				</div>
 			</td>
@@ -153,7 +153,7 @@
 			<td>
 				<h3 class="page-header text-danger">Secretaries</h3>
 				<div class="col-sm-5">
-					<table width="100%" class="table table-striped ">
+					<table width="100%" class="table table-striped col-sm-12">
 						<tr >
 							<td>อ.ชัยพันธุ์ </td>
 							<td>ประการะพันธ์ </td>
