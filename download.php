@@ -7,6 +7,6 @@
     header("Content-Disposition: attachment; filename=".$file."");
     header("Content-Transfer-Encoding: binary");
     header("Content-Type: binary/octet-stream");
-    readfile($file);
+    readfile("assets/file/".$file);
 
 ?>

@@ -14,7 +14,7 @@
 <!-- Footer -->
 <footer>
 	<div class="well">
-		<p align="right" ">Copyright &copy; Webdeveloper by Mr.Chaiwat Homsang</p>
+		<p align="right" ">Copyright &copy; Webmaster by Mr.Chaiwat Homsang</p>
 	</div>
 </footer>
 <!-- /.container -->
