@@ -72,7 +72,7 @@
 
     <body>
       <!-- Top Right -->
-      <img src="assets/img/black_ribbon_top_right.png" class="black-ribbon stick-top stick-right"/>
+      <img src="assets/img/black_ribbon_bottom_left.png" class="black-ribbon stick-bottom stick-left"/>
 
       <div class="col-sm-1"></div>
       <div class="col-sm-10" style="margin-top: -60px;">
@@ -100,40 +100,46 @@
          </li>
          <li role="presentation" class="dropdown">
            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-            ECTI-CARD 2017 <span class="caret"></span>
+            PROGRAME<span class="caret"></span>
           </a>
           <ul class="dropdown-menu" >
             <li><a href="#">WELCOME MESSAGE</a></li>
             <li><a href="#">KEYNOTE SPEAKER</a></li>
             <li><a href="committee.php">COMMITTEE</a></li>
+            <li><a href="#">PROGRAME GRLANCE</a></li>
+            <li><a href="#">PROGRAME FINAL</a></li>
+            <li><a href="#">BASE PAPER AWARD</a></li>
           </ul>
         </li>
         <li role="presentation" class="dropdown">
          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-          PAPER <span class="caret"></span>
+          SUBMISSION <span class="caret"></span>
         </a>
         <ul class="dropdown-menu" >
-          <li><a href="index.php">CALL FOR PAPER</a></li>
-          <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
-          <li><a href="downloadForm.php">DOWNLOAD FORM</a></li>
-        </ul>
-      </li>
-      <li>
-       <a href="regis.php">REGISTRATION</a>
-     </li>
-     <li><a href="accommodation.php">ACCOMMODATION</a></li>
-     <li role="presentation" class="dropdown">
-       <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-        JOURNEY <span class="caret"></span>
-      </a>
-      <ul class="dropdown-menu" >
-        <li><a href="#">TOUR</a></li>
+          <li><a href="call_for_paper.php">CALL FOR PAPER</a></li>
+          <li><a href="#">IMPOSTION DAY</a></li>
+          <li><a href="downloadForm.php">PAPER GUIDE</a></li>
+        <!--   <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
+        <li><a href="downloadForm.php">DOWNLOAD FORM</a></li> -->
       </ul>
     </li>
-    <li><a href="sponsor.php">SPONSOR</a></li>
-    <li><a href="contact.php">CONTACT</a></li>
-    <li><a href="host.php">HOST</a></li>
-  </ul>
+    <li>
+     <a href="regis.php">REGISTRATION</a>
+   </li>
+   <li role="presentation" class="dropdown">
+     <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      VELNUE <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" >
+      <li><a href="accommodation.php">ACCOMMODATION</a></li>
+      <li><a href="#">ข้อมูลการเดินทาง</a></li>
+      <li><a href="#">ทัวร์</a></li>
+    </ul>
+  </li>
+  <!-- <li><a href="sponsor.php">SPONSOR</a></li> -->
+  <li><a href="host.php">HOST</a></li>
+  <li><a href="contact.php">CONTACT</a></li>
+</ul>
 </div>
 <!-- /.navbar-collapse -->
 </div>

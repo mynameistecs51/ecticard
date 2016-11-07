@@ -151,4 +151,10 @@
 		โทรศัพท์: 042 813 060
 	</div>
 </div>
+<div class="row">
+	<p><h1>มาตรวิทยา รอข้อมูล</h1></p>
+</div>
+<div class="row">
+	<p><h1>การทาง รอข้อมูล</h1></p>
+</div>
 <?php include 'footer.php';?>
