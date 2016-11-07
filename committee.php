@@ -6,7 +6,7 @@
 				<h3 class="page-header text-danger">Chair Person</h3>
 				<div class="col-sm-4">
 					<div class="thumbnail">
-						<img src="assets/img/headUdru.jpg" alt="..." style="width: 200px; height:270px; ">
+						<img src="assets/img/headUdru.jpg" alt="..." style="width: 250px; height:270px; ">
 						<div class="caption text-center">
 							<p>ดร.ณัติเทพ พิทักษานุรัตน์ <br>อธิการบดี มหาวิทยาลัยราชภัฏอุดรธานี </p>
 						</div>
@@ -35,7 +35,7 @@
 				<div class="col-sm-6 col-md-4"></div>
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-						<img src="assets/img/somsak.jpg" alt="..." style="width: 200px; height:270px; ">
+						<img src="assets/img/somsak.jpg" alt="..." style="width: 250px; height:270px; ">
 						<div class="caption text-center">
 							<p>รศ.ดร.สมศักดิ์ ชุมช่วย (สจล.)<br>นายกสมาคม ECTI </p>
 						</div>
@@ -76,7 +76,7 @@
 						<td>ศ.ดร.ประภาส  จงสถิตวัฒนา (จุฬาลงกรณ์)</td>
 					</tr>
 					<tr>
-						<td>ศ.ดร.ประยุทธ  อัครเอกฒาสิน (มจพ)</td>
+						<td>ศ.ดร.ประยุทธ  อัครเอกฒาสิน (มจพ.)</td>
 					</tr>
 				</table>
 			</td>
@@ -89,7 +89,7 @@
 						<tr >
 							<td>รศ.ดร.สมศักดิ์</td>
 							<td>ชุ่มช่วย</td>
-							<td>(ECTI,สจล)</td>
+							<td>(ECTI,สจล.)</td>
 						</tr>
 						<tr >
 							<td>คุณ อัจฉรา </td>
@@ -182,6 +182,11 @@
 						<tr>
 							<td>ผศ.ดร.คณิศร </td>
 							<td>จี้กระโทก </td>
+							<td>(มรภ.อุดรธานี)</td>
+						</tr>
+						<tr>
+							<td>นายไชยวัฒน์   </td>
+							<td>หอมแสง </td>
 							<td>(มรภ.อุดรธานี)</td>
 						</tr>
 						<tr>

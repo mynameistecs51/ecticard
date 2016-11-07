@@ -63,6 +63,15 @@
 		</div>
 	</div>
 </div>
+<hr>
+<div class="row">
+	<!-- show contain -->
+	<div class="col-sm-12">
+		<p style="text-align: justify;">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;งานประชุมวิชาการ ECTI-CARD 2017 ครั้งท่ี 9 “การประยุกต์ใช้เทคโนโลยีเพื่อตอบสนองท้องถิ่นและภาคอุตสาหกรรม” จัดโดยคณะเทคโนโลยีมหาวิทยาลัยราชภัฏอุดรธานีมหาวิทยาลัยราชภัฏสกลนครมหาวิทยาลัยราชภัฏเลยสถาบนัมาตรวิทยา แห่งชาติ และสมาคมวิชาการไฟฟ้า อิเล็กทรอนิกส์ โทรคมนาคมและสารสนเทศประเทศไทย จัดขึ้นระหว่างวันที่ 25-28 กรกฎาคม พ.ศ.2560  ณ โรงแรม เชียงคาน ริเวอร์ เมาท์เทน (Chiangkhan River Mountain) จ.เลย มีจุดมุ่งหมายหลักของการจัดงานเพื่อรวบรวมผลงานวิจัยและพฒั นาเชิงประยกุต์งานนวัตกรรม และสง่ิประดิษฐ์รวมถงึเปิดโอกาสให้นักวจิัย ผู้พฒันาและผู้ใช้งานหรือหน่วยงานต่างๆ ได้มีโอกาสแลกเปล่ียนเรียนรทู้างวิชาการ ร่วมกันและสามารถนาผลงานที่ตีพิมพ์ไปพัฒนาต่อยอดในระดับท้องถิ่นและสากลหรือพัฒนาสผู่ ลิตภัณฑ์เชงิ พาณิชย์ได้ ซึ่งบทความ ที่ส่งมานั้นจะไดร้ับการพจิารณาโดยผู้ทรงคุณวุฒิจากคุณภาพและความสมบรูณ์ของงาน บทความที่ได้รบั การคัดเลอืกและได้ถูก นาเสนอในทปี่ระชุมECTI-CARD2017จะถูกตีพิมพ์ในECTI-CARDProceedingsซึ่งสามารถสืบค้นได้ที่ฐานข้อมลูของสมาคม ECTI
+		</p>
+	</div>
+</div>
 <div class="row">
 	<div class="col-sm-12"><h2 class="page-header">การเดินทาง  </h2></div>
 	<div class="col-sm-4">
@@ -88,7 +97,7 @@
 		<a class="lightbox thumbnail" href="assets/img/flightOut29.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;"/></a>
 		<label>
 			เช็คสายการบิน :
-			 <a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
+			<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
 			<a href="https://booking.airasia.com/Flight/Select?o1=LOE&d1=DMK&culture=th-TH&dd1=2017-07-29&ADT=1&CHD=0&inl=0&s=true&mon=true&cc=THB&c=false"  target="_blank">AIR ASIA</a>
 		</label>
 	</div>
