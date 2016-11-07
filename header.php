@@ -52,70 +52,88 @@
           bottom: 0px;
           z-index: 100;
         }
+        .black-ribbon {
+          position: fixed;
+          z-index: 9999;
+          width: 70px;
+        }
+        @media only all and (min-width: 768px) {
+          .black-ribbon {
+            width: auto;
+          }
+        }
+
+        .stick-left { left: 0; }
+        .stick-right { right: 0; }
+        .stick-top { top: 0; }
+        .stick-bottom { bottom: 0; }
       </style>
     </head>
 
     <body>
-     <div class="col-sm-1"></div>
-     <div class="col-sm-10" style="margin-top: -60px;">
-      <img src="assets/img/header.jpg" alt="" style="width:100%;border-radius:10px 10px 0px 0px;">
-      <!-- Navigation -->
-      <nav class="navbar navbar-default navbar-default" role="navigation">
-       <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#">
-          <!-- <img src="http://placehold.it/150x50&text=Logo" alt=""> -->
-        </a>
-      </div>
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-       <ul class="nav navbar-nav">
-        <li>
-         <a href="index.php">HOME</a>
-       </li>
-       <li role="presentation" class="dropdown">
+      <!-- Top Right -->
+      <img src="assets/img/black_ribbon_top_right.png" class="black-ribbon stick-top stick-right"/>
+
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10" style="margin-top: -60px;">
+        <img src="assets/img/header.jpg" alt="" style="width:100%;border-radius:10px 10px 0px 0px;">
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-default" role="navigation">
+         <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">
+            <!-- <img src="http://placehold.it/150x50&text=Logo" alt=""> -->
+          </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+         <ul class="nav navbar-nav">
+          <li>
+           <a href="index.php">HOME</a>
+         </li>
+         <li role="presentation" class="dropdown">
+           <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+            ECTI-CARD 2017 <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" >
+            <li><a href="#">WELCOME MESSAGE</a></li>
+            <li><a href="#">KEYNOTE SPEAKER</a></li>
+            <li><a href="committee.php">COMMITTEE</a></li>
+          </ul>
+        </li>
+        <li role="presentation" class="dropdown">
          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-          ECTI-CARD 2017 <span class="caret"></span>
+          PAPER <span class="caret"></span>
         </a>
         <ul class="dropdown-menu" >
-          <li><a href="#">WELCOME MESSAGE</a></li>
-          <li><a href="#">KEYNOTE SPEAKER</a></li>
-          <li><a href="committee.php">COMMITTEE</a></li>
+          <li><a href="index.php">CALL FOR PAPER</a></li>
+          <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
+          <li><a href="downloadForm.php">DOWNLOAD FORM</a></li>
         </ul>
       </li>
-      <li role="presentation" class="dropdown">
+      <li>
+       <a href="regis.php">REGISTRATION</a>
+     </li>
+     <li><a href="accommodation.php">ACCOMMODATION</a></li>
+     <li role="presentation" class="dropdown">
        <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-        PAPER <span class="caret"></span>
+        JOURNEY <span class="caret"></span>
       </a>
       <ul class="dropdown-menu" >
-        <li><a href="index.php">CALL FOR PAPER</a></li>
-        <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
-        <li><a href="downloadForm.php">DOWNLOAD FORM</a></li>
+        <li><a href="#">TOUR</a></li>
       </ul>
     </li>
-    <li>
-     <a href="regis.php">REGISTRATION</a>
-   </li>
-   <li><a href="accommodation.php">ACCOMMODATION</a></li>
-   <li role="presentation" class="dropdown">
-     <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-      JOURNEY <span class="caret"></span>
-    </a>
-    <ul class="dropdown-menu" >
-      <li><a href="#">TOUR</a></li>
-    </ul>
-  </li>
-  <li><a href="sponsor.php">SPONSOR</a></li>
-  <li><a href="contact.php">CONTACT</a></li>
-  <li><a href="host.php">HOST</a></li>
-</ul>
+    <li><a href="sponsor.php">SPONSOR</a></li>
+    <li><a href="contact.php">CONTACT</a></li>
+    <li><a href="host.php">HOST</a></li>
+  </ul>
 </div>
 <!-- /.navbar-collapse -->
 </div>
