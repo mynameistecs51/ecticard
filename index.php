@@ -85,7 +85,7 @@
 	</div>
 	<div class="col-sm-4">
 		<span class="page-header text-danger"><u>ขาออกวันที่ 28/7/2560</u></span>
-		<a class="lightbox thumbnail" href="assets/img/flightOut28.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 28/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;"/></a>
+		<a class="lightbox thumbnail" href="assets/img/flightOut28.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 28/7/2560"  ><img src="assets/img/flightOut28.png" alt="" style="width:100%;"/></a>
 		<label>
 			เช็คสายการบิน :
 			<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
@@ -94,7 +94,7 @@
 	</div>
 	<div class="col-sm-4">
 		<span class="page-header text-danger"><u>ขาออกวันที่ 29/7/2560</u></span>
-		<a class="lightbox thumbnail" href="assets/img/flightOut29.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;"/></a>
+		<a class="lightbox thumbnail" href="assets/img/flightOut29.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/flightOut29.png" alt="" style="width:100%;"/></a>
 		<label>
 			เช็คสายการบิน :
 			<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
