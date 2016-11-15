@@ -129,7 +129,7 @@
    </li>
    <li role="presentation" class="dropdown">
      <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-      VELNUE <span class="caret"></span>
+      VENUE <span class="caret"></span>
     </a>
     <ul class="dropdown-menu" >
       <li><a href="accommodation.php">ACCOMMODATION</a></li>
