@@ -6,8 +6,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="description" content="ecti card 2017,ecti 2017,ecti-card 2017">
+	<meta name="author" content="ecticard2017,ecti-card 2017,ecti 2017">
 
 	<title>ECTI CARD 2017</title>
 
