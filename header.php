@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-
+	<meta name="google-site-verification" content="WpA04OeSJD_28cLvPnqk3_BSsVmYz0HQ-UifrTZVd6I" />
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -106,7 +106,7 @@
             <li><a href="#">WELCOME MESSAGE</a></li>
             <li><a href="#">KEYNOTE SPEAKER</a></li>
             <li><a href="committee.php">COMMITTEE</a></li>
-            <li><a href="#">PROGRAM GRAND</a></li>
+            <li><a href="#">PROGRAM AT A GLANCE</a></li>
             <li><a href="#">PROGRAM FINAL</a></li>
             <li><a href="#">JOURNAL EXTENSION</a></li>
             <li><a href="#">BEST PAPER AWARD</a></li>
@@ -118,7 +118,7 @@
         </a>
         <ul class="dropdown-menu" >
           <li><a href="call_for_paper.php">CALL FOR PAPER</a></li>
-          <li><a href="#">IMPOSTION DAY</a></li>
+          <li><a href="#">IMPORTANT DATES</a></li>
           <li><a href="downloadForm.php">PAPER GUIDE</a></li>
         <!--   <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
         <li><a href="downloadForm.php">DOWNLOAD FORM</a></li> -->
