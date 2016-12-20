@@ -118,7 +118,7 @@
         </a>
         <ul class="dropdown-menu" >
           <li><a href="call_for_paper.php">CALL FOR PAPER</a></li>
-          <li><a href="#">IMPORTANT DATES</a></li>
+          <li><a href="important_dates.php">IMPORTANT DATES</a></li>
           <li><a href="downloadForm.php">PAPER GUIDE</a></li>
         <!--   <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
         <li><a href="downloadForm.php">DOWNLOAD FORM</a></li> -->

@@ -27,7 +27,7 @@
 </p>
 <p >
 	<h3 style="color:green;">
-		แจ้งปัญหาการลงทะเบียนหรือ Payment  กรุณาติดต่อ หรือส่งหลักฐานได้ทาง <br>  Email: cjass.help@gmail.com ครับ
+		แจ้งปัญหาการลงทะเบียนหรือ Payment  กรุณาติดต่อ หรือส่งหลักฐานได้ทาง <br>  Email: ecti.secretary@gmail.com ครับ
 	</h3>
 </p>
 <p>
