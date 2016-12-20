@@ -16,9 +16,9 @@
 	</h3>
 </p>
 <p>
-<h2 >
-	<a class="text-danger" href="http://www.confserve.org/cjass/login.php?event_id=CJASS" target="bank"><u>:: คลิกเพื่อ ลงทะเบียน ::</u></a>
-</h2>
+	<h2 >
+		<a class="text-danger" href="http://www.confserve.org/cjass/login.php?event_id=CJASS" target="bank"><u>:: คลิกเพื่อ ลงทะเบียน ::</u></a>
+	</h2>
 	<h3>
 		พิเศษ!!! สำหรับผู้ลงทะเบียนประเภท Regular ในช่วง
 		Early Bird รับสิทธิ์เป็น ECTI Member ฟรี 1 ปี!!!
@@ -29,5 +29,20 @@
 	<h3 style="color:green;">
 		แจ้งปัญหาการลงทะเบียนหรือ Payment  กรุณาติดต่อ หรือส่งหลักฐานได้ทาง <br>  Email: cjass.help@gmail.com ครับ
 	</h3>
+</p>
+<p>
+
+	ประสานงานได้ที่ : <br>
+
+	EMAIL : ecticard2017@gmail.com<br>
+
+	รศ.ดร.อลงกรณ์ พรมที 083-0860903 คณะเทคโนโลยี มหาวิทยาลัยราชภัฏอุดรธานี <br>
+
+	อ.ชัยพันธุ์ ประการะพันธ์ 089-458-0103 คณะเทคโนโลยี มหาวิทยาลัยราชภัฏอุดรธานี<br>
+
+	อ.ปริญญา รจนา 081-262-8388 คณะเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยราชภัฏสกลนคร<br>
+
+	ผศ.กิตติศักดิ์ แสนประสิทธิ์ 087-988-2503 คณะเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยราชภัฏเลย<br>
+
 </p>
 <?php include "footer.php";?>
