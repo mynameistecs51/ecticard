@@ -106,7 +106,7 @@
             <li><a href="#">WELCOME MESSAGE</a></li>
             <li><a href="#">KEYNOTE SPEAKER</a></li>
             <li><a href="committee.php">COMMITTEE</a></li>
-            <li><a href="#">PROGRAM AT A GLANCE</a></li>
+            <!-- <li><a href="#">PROGRAM AT A GLANCE</a></li> -->
             <li><a href="#">PROGRAM FINAL</a></li>
             <li><a href="#">JOURNAL EXTENSION</a></li>
             <li><a href="#">BEST PAPER AWARD</a></li>
@@ -133,8 +133,8 @@
     </a>
     <ul class="dropdown-menu" >
       <li><a href="accommodation.php">ACCOMMODATION</a></li>
-      <li><a href="#">ข้อมูลการเดินทาง</a></li>
-      <li><a href="#">ทัวร์</a></li>
+      <!-- <li><a href="#">ข้อมูลการเดินทาง</a></li> -->
+      <li><a href="#">TOUR</a></li>
     </ul>
   </li>
   <!-- <li><a href="sponsor.php">SPONSOR</a></li> -->
