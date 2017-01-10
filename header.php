@@ -17,6 +17,12 @@
   <!-- Custom CSS -->
   <link href="assets/css/small-business.css" rel="stylesheet">
 
+ <!-- Timeline CSS -->
+    <link href="assets/css/timeline.css" rel="stylesheet">
+
+  <!-- Font awesome -->
+ <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
   <!-- jQuery -->
   <script src="assets/js/jquery.js"></script>
 
@@ -24,6 +30,7 @@
   <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="assets/js/bootstrap-hover-dropdown.min.js"></script>
   <script type="text/javascript" src="assets/js/jquery.littlelightbox.js"></script>
+
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -152,4 +159,4 @@
 <!-- Call to Action Well -->
 <div class="container well col-sm-12 " >
   <div class="col-sm-1"></div>
-  <div class="col-sm-10"">
+  <div class="col-sm-10">
