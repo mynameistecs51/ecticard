@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
 <div class="row">
-	<h2><b><u>กรรมการดำเนินงาน ( 3 มหาวิทยาลัยราชภัฏ)</u></b></h2>
+	<h2><b><u>กรรมการดำเนินงาน</u></b></h2>
 	<h3 class="page-header">1. มหาวิทยาลัยราชภัฏอุดรธานี</h3>
 	<div class="col-sm-6 col-md-3">
 		<div class="thumbnail">

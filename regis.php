@@ -1,7 +1,7 @@
 <?php include "header.php";?>
 <p>
 	<h3>
-		กำหนดชำระเงิน Early Bird ภายในวันที่ 24 มิถุนายน 2560 เพื่อตีพิมพ์ลง Proceeding  <b style="color:blue;"><a class="text-danger" href="http://www.confserve.org/cjass/login.php?event_id=CJASS" target="bank"><u>ชำระเงิน</u></a></b> โดยสามารถศึกษาวิธีการตาม <b style="color:blue;"><a href="download.php?filename=manual.pdf"> <u>ขั้นตอนการส่งผลงาน</u></a></b>
+		กำหนดชำระเงิน Early Bird ภายในวันที่ 24 มิถุนายน 2560 เพื่อตีพิมพ์ลง Proceeding  <b style="color:blue;"><a class="text-danger" href="http://ecticard2017.ecticard.org/submission/" target="bank"><u>ชำระเงิน</u></a></b> โดยสามารถศึกษาวิธีการตาม <b style="color:blue;"><a href="download.php?filename=manual.pdf"> <u>ขั้นตอนการส่งผลงาน</u></a></b>
 	</h3>
 </p>
 <p>
@@ -17,7 +17,7 @@
 </p>
 <p>
 	<h2 >
-		<a class="text-danger" href="http://www.confserve.org/cjass/login.php?event_id=CJASS" target="bank"><u>:: คลิกเพื่อ ลงทะเบียน ::</u></a>
+		<a class="text-danger" href="http://ecticard2017.ecticard.org/submission/" target="bank"><u>:: คลิกเพื่อ ลงทะเบียน ::</u></a>
 	</h2>
 	<h3>
 		พิเศษ!!! สำหรับผู้ลงทะเบียนประเภท Regular ในช่วง

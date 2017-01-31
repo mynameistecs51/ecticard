@@ -141,7 +141,7 @@
     <ul class="dropdown-menu" >
       <li><a href="accommodation.php">ACCOMMODATION</a></li>
       <!-- <li><a href="#">ข้อมูลการเดินทาง</a></li> -->
-      <li><a href="#">TOUR</a></li>
+      <li><a href="tour.php">TOUR</a></li>
     </ul>
   </li>
   <!-- <li><a href="sponsor.php">SPONSOR</a></li> -->
