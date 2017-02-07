@@ -16,6 +16,30 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
+					<img src="assets/img/slide1.png" alt="..." style="width:100%;height:300px;" >
+					<div class="carousel-caption">
+						...
+					</div>
+				</div>
+				<div class="item ">
+					<img src="assets/img/slide2.png" alt="..." style="width:100%;height:300px;" >
+					<div class="carousel-caption">
+						...
+					</div>
+				</div>
+				<div class="item ">
+					<img src="assets/img/slide3.png" alt="..." style="width:100%;height:300px;" >
+					<div class="carousel-caption">
+						...
+					</div>
+				</div>
+				<div class="item ">
+					<img src="assets/img/slide4.png" alt="..." style="width:100%;height:300px;" >
+					<div class="carousel-caption">
+						...
+					</div>
+				</div>
+				<div class="item ">
 					<img src="assets/img/hotel/1.jpg" alt="..." style="width:100%;height:300px;" >
 					<div class="carousel-caption">
 						...
