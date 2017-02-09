@@ -23,7 +23,7 @@
 		พิเศษ!!! สำหรับผู้ลงทะเบียนประเภท Regular ในช่วง
 		Early Bird รับสิทธิ์เป็น ECTI Member ฟรี 1 ปี!!!
 	</h3>
-	<img src="assets/img/registration.jpg" alt="" class="col-sm-12" width="100%">
+	<img src="assets/img/registration1.jpg" alt="" class="col-sm-12" width="100%">
 </p>
 <p >
 	<h3 style="color:green;">

@@ -2,7 +2,7 @@
 <div class="row">
 	<table  width="100%">
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Chair Person</h3>
 				<div class="col-sm-4">
 					<div class="thumbnail">
@@ -44,7 +44,7 @@
 			</td>
 		</tr>
 		<!-- <tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">General Co-Chair</h3>
 				<div class="col-sm-6 col-md-4"></div>
 				<div class="col-sm-6 col-md-4">
@@ -58,24 +58,24 @@
 			</td>
 		</tr> -->
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Advisory</h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table  width="100%" class="table table-striped ">
 						<tr >
-							<td>อธิการบดี มหาวิทยาลัยราชภัฏอุดรธานี</td>
+							<td class="col-sm-4">อธิการบดี มหาวิทยาลัยราชภัฏอุดรธานี</td>
 						</tr>
 						<tr>
-							<td>อธิการบดี มหาวิทยาลัยราชภัฎเลย</td>
+							<td class="col-sm-4">อธิการบดี มหาวิทยาลัยราชภัฎเลย</td>
 						</tr>
 						<tr>
-							<td>อธิการบดี มหาวิทยาลัยราชภัฏสกลนคร</td>
+							<td class="col-sm-4">อธิการบดี มหาวิทยาลัยราชภัฏสกลนคร</td>
 						</tr>
 						<tr colspan="3">
-							<td>ศ.ดร.ประภาส  จงสถิตวัฒนา (จุฬาลงกรณ์)</td>
+							<td class="col-sm-4">ศ.ดร.ประภาส  จงสถิตวัฒนา (จุฬาลงกรณ์)</td>
 						</tr>
 						<tr>
-							<td>ศ.ดร.ประยุทธ  อัครเอกฒาสิน (มจพ.)</td>
+							<td class="col-sm-4">ศ.ดร.ประยุทธ  อัครเอกฒาสิน (มจพ.)</td>
 						</tr>
 					</table>
 				</div>
@@ -84,57 +84,57 @@
 		<tr >
 			<td >
 				<h3 class="page-header text-danger">General Co-Chair</h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr >
-							<td>รศ.ดร.สมศักดิ์</td>
-							<td>ชุ่มช่วย</td>
-							<td>(ECTI,สจล.)</td>
+							<td class="col-sm-4">รศ.ดร.สมศักดิ์</td>
+							<td class="col-sm-4">ชุ่มช่วย</td>
+							<td class="col-sm-4">(ECTI,สจล.)</td>
 						</tr>
 						<tr>
-							<td> ดร.เกียรติศักดิ์ </td>
-							<td>ศรีพิมานวัฒน์ </td>
-							<td>(ECTI)</td>
+							<td class="col-sm-4"> ดร.เกียรติศักดิ์ </td>
+							<td class="col-sm-4">ศรีพิมานวัฒน์ </td>
+							<td class="col-sm-4">(ECTI)</td>
 						</tr>
 						<tr >
-							<td>คุณ อัจฉรา </td>
-							<td>เจริญสุข</td>
-							<td> (มว.)</td>
+							<td class="col-sm-4">คุณ อัจฉรา </td>
+							<td class="col-sm-4">เจริญสุข</td>
+							<td class="col-sm-4"> (มว.)</td>
 						</tr>
 						<tr >
-							<td>ศ.ดร.โกสินทร์</td>
-							<td> จำนงไทย</td>
-							<td> (มจธ.)</td>
+							<td class="col-sm-4">ศ.ดร.โกสินทร์</td>
+							<td class="col-sm-4"> จำนงไทย</td>
+							<td class="col-sm-4"> (มจธ.)</td>
 						</tr>
 						<tr >
-							<td>ดร.สุทธิพงศ์</td>
-							<td> เปรื่องค้า</td>
-							<td> (มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ดร.สุทธิพงศ์</td>
+							<td class="col-sm-4"> เปรื่องค้า</td>
+							<td class="col-sm-4"> (มรภ. อุดรธานี)</td>
 						</tr>
 						<tr >
-							<td>รศ.ดร.อลงกรณ์</td>
-							<td> พรมที </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">รศ.ดร.อลงกรณ์</td>
+							<td class="col-sm-4"> พรมที </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ปรีชาศาสตร์ </td>
-							<td> มีเกาะ </td>
-							<td>(มรภ. สกลนคร)</td>
+							<td class="col-sm-4">ผศ.ปรีชาศาสตร์ </td>
+							<td class="col-sm-4"> มีเกาะ </td>
+							<td class="col-sm-4">(มรภ. สกลนคร)</td>
 						</tr>
 						<tr>
-							<td>ดร.ชัยยศ </td>
-							<td>คำมี </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">ดร.ชัยยศ </td>
+							<td class="col-sm-4">คำมี </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ดร.ศักดิ์ดา </td>
-							<td>พรรณไวย </td>
-							<td>(กทพ.)</td>
+							<td class="col-sm-4">ดร.ศักดิ์ดา </td>
+							<td class="col-sm-4">พรรณไวย </td>
+							<td class="col-sm-4">(กทพ.)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ดร.กฤษฎา </td>
-							<td>ณ หนองคาย</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ดร.กฤษฎา </td>
+							<td class="col-sm-4">ณ หนองคาย</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 					</table>
 				</div>
@@ -143,251 +143,251 @@
 		<tr>
 			<td >
 				<h3 class="page-header text-danger">Technical Program Chairs</h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr >
-							<td>รศ.ดร.อนันต์ </td>
-							<td>ผลเพิ่ม </td>
-							<td>(มก.)</td>
+							<td class="col-sm-4">รศ.ดร.อนันต์ </td>
+							<td class="col-sm-4">ผลเพิ่ม </td>
+							<td class="col-sm-4">(มก.)</td>
 						</tr>
 						<tr>
-							<td>ดร.ชัยวัฒน์ </td>
-							<td>เจษฎาจินต์ </td>
-							<td>(มว.)</td>
+							<td class="col-sm-4">ดร.ชัยวัฒน์ </td>
+							<td class="col-sm-4">เจษฎาจินต์ </td>
+							<td class="col-sm-4">(มว.)</td>
 						</tr>
 						<tr>
-							<td>ดร.สุชาดา</td>
-							<td> ตันติสถิระพงษ์</td>
-							<td> (มศว.)</td>
+							<td class="col-sm-4">ดร.สุชาดา</td>
+							<td class="col-sm-4"> ตันติสถิระพงษ์</td>
+							<td class="col-sm-4"> (มศว.)</td>
 						</tr>
 						<tr>
 							<td  >ผศ.ดร.ณัฐพงศ์ </td>
-							<td> พันธุนะ </td>
-							<td>(มทร. พระนคร)</td>
+							<td class="col-sm-4"> พันธุนะ </td>
+							<td class="col-sm-4">(มทร. พระนคร)</td>
 						</tr>
 					</table>
 				</div>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Committee</h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>ดร.มนตรี </td>
-							<td> โพธิโสโนทัย </td>
-							<td>(สจล.)</td>
+							<td class="col-sm-4">ดร.มนตรี </td>
+							<td class="col-sm-4"> โพธิโสโนทัย </td>
+							<td class="col-sm-4">(สจล.)</td>
 						</tr>
 						<tr>
-							<td>ดร. สถาพร </td>
-							<td>พรพรหมลิขิต </td>
-							<td>(มข.)</td>
+							<td class="col-sm-4">ดร. สถาพร </td>
+							<td class="col-sm-4">พรพรหมลิขิต </td>
+							<td class="col-sm-4">(มข.)</td>
 						</tr>
 						<tr>
-							<td>รศ.ดร. อภินันท์ </td>
-							<td>อุรโสภณ </td>
-							<td>(มมส.)</td>
+							<td class="col-sm-4">รศ.ดร. อภินันท์ </td>
+							<td class="col-sm-4">อุรโสภณ </td>
+							<td class="col-sm-4">(มมส.)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ปองพล </td>
-							<td>แสนสอน </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ปองพล </td>
+							<td class="col-sm-4">แสนสอน </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ดร.ยุทธศักดิ์ </td>
-							<td>ทอดทอง </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ดร.ยุทธศักดิ์ </td>
+							<td class="col-sm-4">ทอดทอง </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>สมชาย </td>
-							<td>สิริพัฒนากุล </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">สมชาย </td>
+							<td class="col-sm-4">สิริพัฒนากุล </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ณัฐพงศ์ </td>
-							<td>บุตรธนู </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ณัฐพงศ์ </td>
+							<td class="col-sm-4">บุตรธนู </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ดร.กริข </td>
-							<td>สมกันธา </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ดร.กริข </td>
+							<td class="col-sm-4">สมกันธา </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ.วิไลพร </td>
-							<td>กุลตังวัฒนา </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.วิไลพร </td>
+							<td class="col-sm-4">กุลตังวัฒนา </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ดร.คณิศร </td>
-							<td>จี้กระโทก </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ดร.คณิศร </td>
+							<td class="col-sm-4">จี้กระโทก </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ. ดร. สุนทร </td>
-							<td>สุทธิบาก </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ. ดร. สุนทร </td>
+							<td class="col-sm-4">สุทธิบาก </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ. ดร. วราจิต </td>
-							<td>พยอม </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ. ดร. วราจิต </td>
+							<td class="col-sm-4">พยอม </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ สุทิน </td>
-							<td>พลบูรณ์ </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ สุทิน </td>
+							<td class="col-sm-4">พลบูรณ์ </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ณัฐกิตติ์ </td>
-							<td>แสนทอง </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ณัฐกิตติ์ </td>
+							<td class="col-sm-4">แสนทอง </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>วิภา </td>
-							<td>เหลืองบุตรนาค </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">วิภา </td>
+							<td class="col-sm-4">เหลืองบุตรนาค </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>รณฤทธิ์ </td>
-							<td>จันทร์ศิริ </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">รณฤทธิ์ </td>
+							<td class="col-sm-4">จันทร์ศิริ </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>สรวินท์ </td>
-							<td>ปูคะภาค </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">สรวินท์ </td>
+							<td class="col-sm-4">ปูคะภาค </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ดร. เอกราช </td>
-							<td> ดีนาง</td>
-							<td>มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ดร. เอกราช </td>
+							<td class="col-sm-4"> ดีนาง</td>
+							<td class="col-sm-4">มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ดร.คมยุทธ </td>
-							<td>ไชยวงษ์</td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">ดร.คมยุทธ </td>
+							<td class="col-sm-4">ไชยวงษ์</td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ศักดิ์ชาย</td>
-							<td> พวงจันทร์</td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">ผศ.ศักดิ์ชาย</td>
+							<td class="col-sm-4"> พวงจันทร์</td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ยุทธพงษ์ </td>
-							<td>นาคโสภณ</td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">ผศ.ยุทธพงษ์ </td>
+							<td class="col-sm-4">นาคโสภณ</td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.เมืองมล</td>
-							<td> เสนเพ็ง </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.เมืองมล</td>
+							<td class="col-sm-4"> เสนเพ็ง </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.ภควดี </td>
-							<td>ศิริหล้า </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.ภควดี </td>
+							<td class="col-sm-4">ศิริหล้า </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.ปกรณ์เกียรติ </td>
-							<td>ภูกองพลอย</td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.ปกรณ์เกียรติ </td>
+							<td class="col-sm-4">ภูกองพลอย</td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.วันชาติ</td>
-							<td> สุพรมพิทักษ์ </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.วันชาติ</td>
+							<td class="col-sm-4"> สุพรมพิทักษ์ </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.เปรมชัย </td>
-							<td>มูลหล้า</td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.เปรมชัย </td>
+							<td class="col-sm-4">มูลหล้า</td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.ณัฐชัย</td>
-							<td> โปธิ </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.ณัฐชัย</td>
+							<td class="col-sm-4"> โปธิ </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ผศ. ดร. สราวุฒิ</td>
-							<td> บุญเกิดรัมย์ </td>
-							<td>(มรภ. สกลนคร)</td>
+							<td class="col-sm-4">ผศ. ดร. สราวุฒิ</td>
+							<td class="col-sm-4"> บุญเกิดรัมย์ </td>
+							<td class="col-sm-4">(มรภ. สกลนคร)</td>
 						</tr>
 						<tr>
-							<td>ผศ. รชต </td>
-							<td>บุณยะยุต </td>
-							<td>(มรภ. สกลนคร)</td>
+							<td class="col-sm-4">ผศ. รชต </td>
+							<td class="col-sm-4">บุณยะยุต </td>
+							<td class="col-sm-4">(มรภ. สกลนคร)</td>
 						</tr>
 						<tr>
-							<td>รณยุทธ </td>
-							<td>นนท์พละ </td>
-							<td>(มรภ. สกลนคร)</td>
+							<td class="col-sm-4">รณยุทธ </td>
+							<td class="col-sm-4">นนท์พละ </td>
+							<td class="col-sm-4">(มรภ. สกลนคร)</td>
 						</tr>
 						<tr>
-							<td>ยิ่งยศ </td>
-							<td>ศรีบุญเรือง </td>
-							<td>(มบ. สระแก้ว)</td>
+							<td class="col-sm-4">ยิ่งยศ </td>
+							<td class="col-sm-4">ศรีบุญเรือง </td>
+							<td class="col-sm-4">(มบ. สระแก้ว)</td>
 						</tr>
 						<tr>
-							<td>ดร. นิกร </td>
-							<td>แก้วแพรก</td>
-							<td>(วว.)</td>
+							<td class="col-sm-4">ดร. นิกร </td>
+							<td class="col-sm-4">แก้วแพรก</td>
+							<td class="col-sm-4">(วว.)</td>
 						</tr>
 						<tr>
-							<td>ดร. สัญญา</td>
-							<td> ควรคิด </td>
-							<td>(มรภ. นครปฐม)</td>
+							<td class="col-sm-4">ดร. สัญญา</td>
+							<td class="col-sm-4"> ควรคิด </td>
+							<td class="col-sm-4">(มรภ. นครปฐม)</td>
 						</tr>
 						<tr>
-							<td>ดร. ธวัชชัย </td>
-							<td>ทองเหลี่ยม</td>
-							<td> (มรภ. นครปฐม)</td>
+							<td class="col-sm-4">ดร. ธวัชชัย </td>
+							<td class="col-sm-4">ทองเหลี่ยม</td>
+							<td class="col-sm-4"> (มรภ. นครปฐม)</td>
 						</tr>
 						<tr>
-							<td>ผศ.พนม </td>
-							<td>ท้าวดี</td>
-							<td> (มก. สกลนคร)</td>
+							<td class="col-sm-4">ผศ.พนม </td>
+							<td class="col-sm-4">ท้าวดี</td>
+							<td class="col-sm-4"> (มก. สกลนคร)</td>
 						</tr>
 						<tr>
-							<td>ธนาฒน์ </td>
-							<td>สุกนวล </td>
-							<td>(มทร. อีสาน-นครราชสีมา)</td>
+							<td class="col-sm-4">ธนาฒน์ </td>
+							<td class="col-sm-4">สุกนวล </td>
+							<td class="col-sm-4">(มทร. อีสาน-นครราชสีมา)</td>
 						</tr>
 						<tr>
-							<td>ผศ.วิชชุพงษ์</td>
-							<td> วิบูลเจริญ </td>
-							<td>(มทร. อีสาน-นครราชสีมา)</td>
+							<td class="col-sm-4">ผศ.วิชชุพงษ์</td>
+							<td class="col-sm-4"> วิบูลเจริญ </td>
+							<td class="col-sm-4">(มทร. อีสาน-นครราชสีมา)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ดร.อดิเรก</td>
-							<td> จันตะคุณ</td>
-							<td> (มทร. อีสาน-ขอนแก่น)</td>
+							<td class="col-sm-4">ผศ.ดร.อดิเรก</td>
+							<td class="col-sm-4"> จันตะคุณ</td>
+							<td class="col-sm-4"> (มทร. อีสาน-ขอนแก่น)</td>
 						</tr>
 						<tr>
-							<td>ศราวุฑ</td>
-							<td> คงลำพันธ์ </td>
-							<td>(มทร. อีสาน-ขอนแก่น)</td>
+							<td class="col-sm-4">ศราวุฑ</td>
+							<td class="col-sm-4"> คงลำพันธ์ </td>
+							<td class="col-sm-4">(มทร. อีสาน-ขอนแก่น)</td>
 						</tr>
 						<tr>
-							<td>กร</td>
-							<td> พวงนาค </td>
-							<td>(มทร. พระนคร)</td>
+							<td class="col-sm-4">กร</td>
+							<td class="col-sm-4"> พวงนาค </td>
+							<td class="col-sm-4">(มทร. พระนคร)</td>
 						</tr>
 						<tr>
-							<td>มัณฑณา</td>
-							<td> เตี๋ยวงษ์สุวรรณ์ </td>
-							<td>(มทร. พระนคร)</td>
+							<td class="col-sm-4">มัณฑณา</td>
+							<td class="col-sm-4"> เตี๋ยวงษ์สุวรรณ์ </td>
+							<td class="col-sm-4">(มทร. พระนคร)</td>
 						</tr>
 						<tr>
-							<td>ผศ. จิรพงษ์</td>
-							<td> จิตตะโคตร์ </td>
-							<td>(มทร. ธัญบุรี)</td>
+							<td class="col-sm-4">ผศ. จิรพงษ์</td>
+							<td class="col-sm-4"> จิตตะโคตร์ </td>
+							<td class="col-sm-4">(มทร. ธัญบุรี)</td>
 						</tr>
 						<tr>
-							<td>ดร. สายชล </td>
-							<td>ชุดเจือจีน </td>
-							<td>(มทร. กรุงเทพ)</td>
+							<td class="col-sm-4">ดร. สายชล </td>
+							<td class="col-sm-4">ชุดเจือจีน </td>
+							<td class="col-sm-4">(มทร. กรุงเทพ)</td>
 						</tr>
 
 					</table>
@@ -395,307 +395,307 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Local Arrangement Chairs</h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>ผศ.กิตติศักดิ์ </td>
-							<td>แสนประสิทธ์ </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">ผศ.กิตติศักดิ์ </td>
+							<td class="col-sm-4">แสนประสิทธ์ </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ดร.คมยุทธ </td>
-							<td>ไชยวงษ์</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">ดร.คมยุทธ </td>
+							<td class="col-sm-4">ไชยวงษ์</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.เมืองมล </td>
-							<td>เสนเพ็ง </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.เมืองมล </td>
+							<td class="col-sm-4">เสนเพ็ง </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.ภควดี </td>
-							<td>ศิริหล้า </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.ภควดี </td>
+							<td class="col-sm-4">ศิริหล้า </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.พัฒนะ </td>
-							<td>เจริญยิ่ง</td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.พัฒนะ </td>
+							<td class="col-sm-4">เจริญยิ่ง</td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.ณัชชา</td>
-							<td> สมจันทร์ </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.ณัชชา</td>
+							<td class="col-sm-4"> สมจันทร์ </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.เปรมชัย</td>
-							<td> มูลหล้า </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.เปรมชัย</td>
+							<td class="col-sm-4"> มูลหล้า </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>อ.ศุภกัญญา </td>
-							<td>ขันชัยภูมิ </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">อ.ศุภกัญญา </td>
+							<td class="col-sm-4">ขันชัยภูมิ </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>นางทัศนีย์ </td>
-							<td>บุตรเพ็ง</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">นางทัศนีย์ </td>
+							<td class="col-sm-4">บุตรเพ็ง</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>นายไพโรจน์ </td>
-							<td>บุตรเพ็ง </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">นายไพโรจน์ </td>
+							<td class="col-sm-4">บุตรเพ็ง </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>นายสุรชัย </td>
-							<td>กองชนิน</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">นายสุรชัย </td>
+							<td class="col-sm-4">กองชนิน</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ชัยพันธุ์ </td>
-							<td>ประการะพันธ์ </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ชัยพันธุ์ </td>
+							<td class="col-sm-4">ประการะพันธ์ </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 					</table>
 				</div>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Information Management Chairs</h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>ผศ.ดร.กริข </td>
-							<td>สมกันธา </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ดร.กริข </td>
+							<td class="col-sm-4">สมกันธา </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ไชยวัฒน์ </td>
-							<td>หอมแสง</td>
-							<td> (มรภ.อุดรธานี)</td>
+							<td class="col-sm-4">ไชยวัฒน์ </td>
+							<td class="col-sm-4">หอมแสง</td>
+							<td class="col-sm-4"> (มรภ.อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ.วิไลพร </td>
-							<td>กุลตังวัฒนา</td>
-							<td> (มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.วิไลพร </td>
+							<td class="col-sm-4">กุลตังวัฒนา</td>
+							<td class="col-sm-4"> (มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ดร.คณิศร </td>
-							<td>จี้กระโทก </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ดร.คณิศร </td>
+							<td class="col-sm-4">จี้กระโทก </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ชัยพันธุ์ </td>
-							<td>ประการะพันธ์</td>
-							<td> (มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ชัยพันธุ์ </td>
+							<td class="col-sm-4">ประการะพันธ์</td>
+							<td class="col-sm-4"> (มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>กร </td>
-							<td>พวงนาค </td>
-							<td>(มทร. พระนคร)</td>
+							<td class="col-sm-4">กร </td>
+							<td class="col-sm-4">พวงนาค </td>
+							<td class="col-sm-4">(มทร. พระนคร)</td>
 						</tr>
 					</table>
 				</div>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Publication Chairs</h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>ผศ.ดร. ลือชัย </td>
-							<td>พรหมรัตน์รักษ์</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ดร. ลือชัย </td>
+							<td class="col-sm-4">พรหมรัตน์รักษ์</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ. จุไรรัตน์จินดา</td>
-							<td> อรรคนิตย์</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ. จุไรรัตน์จินดา</td>
+							<td class="col-sm-4"> อรรคนิตย์</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ดร.ภูเบศร์ </td>
-							<td>พิพิธหิรัญการ</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ดร.ภูเบศร์ </td>
+							<td class="col-sm-4">พิพิธหิรัญการ</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>วิภา</td>
-							<td> เหลืองบุตรนาค</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">วิภา</td>
+							<td class="col-sm-4"> เหลืองบุตรนาค</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>กาญจนา </td>
-							<td>มูลอา</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">กาญจนา </td>
+							<td class="col-sm-4">มูลอาจ</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>รศ.เกียรติศักดิ์ </td>
-							<td>รัตนสีหา </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">รศ.เกียรติศักดิ์ </td>
+							<td class="col-sm-4">รัตนสีหา </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ดร.ภาณุมาศ </td>
-							<td>พรหมเทศ</td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">ผศ.ดร.ภาณุมาศ </td>
+							<td class="col-sm-4">พรหมเทศ</td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ผศ.ดร.สุรจิตร์ </td>
-							<td>พระเมือง</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">ผศ.ดร.สุรจิตร์ </td>
+							<td class="col-sm-4">พระเมือง</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ผศ.สมศักดิ์ </td>
-							<td>พินิจด่านกลาง</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">ผศ.สมศักดิ์ </td>
+							<td class="col-sm-4">พินิจด่านกลาง</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 					</table>
 				</div>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Workshop &amp; Exhibition Chairs </h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>ผศ.ปองพล </td>
-							<td>แสนสอน </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ผศ.ปองพล </td>
+							<td class="col-sm-4">แสนสอน </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ดร.ยุทธศักดิ์ </td>
-							<td>ทอดทอง </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ดร.ยุทธศักดิ์ </td>
+							<td class="col-sm-4">ทอดทอง </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>สมชาย </td>
-							<td>สิริพัฒนากุล </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">สมชาย </td>
+							<td class="col-sm-4">สิริพัฒนากุล </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ณัฐพงศ์ </td>
-							<td>บุตรธนู </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ณัฐพงศ์ </td>
+							<td class="col-sm-4">บุตรธนู </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 					</table>
 				</div>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Finance &amp; Registration Chairs </h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>วิบูลย์ </td>
-							<td>พร้อมนิชย์ </td>
-							<td>(สจล.)</td>
+							<td class="col-sm-4">วิบูลย์ </td>
+							<td class="col-sm-4">พร้อมนิชย์ </td>
+							<td class="col-sm-4">(สจล.)</td>
 						</tr>
 						<tr>
 
-							<td>บัววร </td>
-							<td>ชัยธงรัตน์</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">บัววร </td>
+							<td class="col-sm-4">ชัยธงรัตน์</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
 
-							<td>ชัยพันธุ์ </td>
-							<td>ประการะพันธ์</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ชัยพันธุ์ </td>
+							<td class="col-sm-4">ประการะพันธ์</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
 
-							<td>ไพริน</td>
-							<td> แก้วกรวย</td>
-							<td>(ECTI)</td>
+							<td class="col-sm-4">ไพริน</td>
+							<td class="col-sm-4"> แก้วกรวย</td>
+							<td class="col-sm-4">(ECTI)</td>
 						</tr>
 						<tr>
 
-							<td>หัถยา </td>
-							<td>คำภาษี</td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">หัถยา </td>
+							<td class="col-sm-4">คำภาษี</td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
 
-							<td>อ.ศุภกัญญา</td>
-							<td> ขันชัยภูมิ</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">อ.ศุภกัญญา</td>
+							<td class="col-sm-4"> ขันชัยภูมิ</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 						<tr>
 
-							<td>นางทัศนีย์ </td>
-							<td>บุตรเพ็ง </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">นางทัศนีย์ </td>
+							<td class="col-sm-4">บุตรเพ็ง </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
 
-							<td>นางชฎาพร </td>
-							<td>คุชนุช </td>
-							<td>(มรภ. เลย)</td>
+							<td class="col-sm-4">นางชฎาพร </td>
+							<td class="col-sm-4">คุชนุช </td>
+							<td class="col-sm-4">(มรภ. เลย)</td>
 						</tr>
 						<tr>
 
-							<td>นางสาวสุภัทตรา </td>
-							<td>พันธุวาปี</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">นางสาวสุภัทตรา </td>
+							<td class="col-sm-4">พันธุวาปี</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 						<tr>
 
-							<td>นางสาวภัทราภรณ์</td>
-							<td> เขียวทองสี</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">นางสาวภัทราภรณ์</td>
+							<td class="col-sm-4"> เขียวทองสี</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 					</table>
 				</div>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Secretaries </h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>ชัยพันธุ์</td>
-							<td> ประการะพันธ์ </td>
-							<td>(มรภ. อุดรธานี)</td>
+							<td class="col-sm-4">ชัยพันธุ์</td>
+							<td class="col-sm-4"> ประการะพันธ์ </td>
+							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
-							<td>ผศ.กิตติศักดิ์ </td>
-							<td>แสนประสิทธ์</td>
-							<td> (มรภ. เลย)</td>
+							<td class="col-sm-4">ผศ.กิตติศักดิ์ </td>
+							<td class="col-sm-4">แสนประสิทธ์</td>
+							<td class="col-sm-4"> (มรภ. เลย)</td>
 						</tr>
 						<tr>
-							<td>ปริญญา </td>
-							<td>รจนา</td>
-							<td> (มรภ. สกลนคร)</td>
+							<td class="col-sm-4">ปริญญา </td>
+							<td class="col-sm-4">รจนา</td>
+							<td class="col-sm-4"> (มรภ. สกลนคร)</td>
 						</tr>
 						<tr>
-							<td>ไมตรี</td>
-							<td> ธรรมมา</td>
-							<td> (มทร. อีสาน)</td>
+							<td class="col-sm-4">ไมตรี</td>
+							<td class="col-sm-4"> ธรรมมา</td>
+							<td class="col-sm-4"> (มทร. อีสาน)</td>
 						</tr>
 					</table>
 				</div>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="col-sm-4">
 				<h3 class="page-header text-danger">Special Session </h3>
-				<div class="col-sm-6">
+				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td>ผศ.ดร.เกริก </td>
-							<td>ภิรมย์โสภา</td>
-							<td> (จุฬาลงกรณ์)</td>
+							<td class="col-sm-4">ผศ.ดร.เกริก </td>
+							<td class="col-sm-4">ภิรมย์โสภา</td>
+							<td class="col-sm-4"> (จุฬาลงกรณ์)</td>
 						</tr>
 						<tr>
-							<td>ดร.มนตรี </td>
-							<td>โพธิโสโนทัย</td>
-							<td> (สจล.)</td>
+							<td class="col-sm-4">ดร.มนตรี </td>
+							<td class="col-sm-4">โพธิโสโนทัย</td>
+							<td class="col-sm-4"> (สจล.)</td>
 						</tr>
 					</table>
 				</div>
