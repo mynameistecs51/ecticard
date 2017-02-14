@@ -91,13 +91,8 @@
 							<td class="col-sm-4">ชุ่มช่วย</td>
 							<td class="col-sm-4">(ECTI,สจล.)</td>
 						</tr>
-						<tr>
-							<td class="col-sm-4"> ดร.เกียรติศักดิ์ </td>
-							<td class="col-sm-4">ศรีพิมานวัฒน์ </td>
-							<td class="col-sm-4">(ECTI)</td>
-						</tr>
 						<tr >
-							<td class="col-sm-4">คุณ อัจฉรา </td>
+							<td class="col-sm-4">อัจฉรา </td>
 							<td class="col-sm-4">เจริญสุข</td>
 							<td class="col-sm-4"> (มว.)</td>
 						</tr>
@@ -131,11 +126,6 @@
 							<td class="col-sm-4">พรรณไวย </td>
 							<td class="col-sm-4">(กทพ.)</td>
 						</tr>
-						<tr>
-							<td class="col-sm-4">ผศ.ดร.กฤษฎา </td>
-							<td class="col-sm-4">ณ หนองคาย</td>
-							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
-						</tr>
 					</table>
 				</div>
 			</td>
@@ -161,7 +151,7 @@
 							<td class="col-sm-4"> (มศว.)</td>
 						</tr>
 						<tr>
-							<td  >ผศ.ดร.ณัฐพงศ์ </td>
+							<td class="col-sm-4" >ผศ.ดร.ณัฐพงศ์ </td>
 							<td class="col-sm-4"> พันธุนะ </td>
 							<td class="col-sm-4">(มทร. พระนคร)</td>
 						</tr>
@@ -258,11 +248,6 @@
 							<td class="col-sm-4">สรวินท์ </td>
 							<td class="col-sm-4">ปูคะภาค </td>
 							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
-						</tr>
-						<tr>
-							<td class="col-sm-4">ดร. เอกราช </td>
-							<td class="col-sm-4"> ดีนาง</td>
-							<td class="col-sm-4">มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
 							<td class="col-sm-4">ดร.คมยุทธ </td>
@@ -469,7 +454,7 @@
 				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
 						<tr>
-							<td class="col-sm-4">ผศ.ดร.กริข </td>
+							<td class="col-sm-4">ผศ.ดร.กริช </td>
 							<td class="col-sm-4">สมกันธา </td>
 							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
@@ -525,11 +510,6 @@
 						<tr>
 							<td class="col-sm-4">วิภา</td>
 							<td class="col-sm-4"> เหลืองบุตรนาค</td>
-							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
-						</tr>
-						<tr>
-							<td class="col-sm-4">กาญจนา </td>
-							<td class="col-sm-4">มูลอาจ</td>
 							<td class="col-sm-4">(มรภ. อุดรธานี)</td>
 						</tr>
 						<tr>
