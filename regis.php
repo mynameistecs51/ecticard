@@ -17,7 +17,7 @@
 </p>
 <p>
 	<h2 >
-		<a class="text-danger" href="http://ecticard2017.ecticard.org/submission/" target="bank"><u>:: คลิกเพื่อ ลงทะเบียนและส่งบทความ ::</u></a>
+		<a class="text-danger" href="http://ecticard2017.ecticard.org/submission/" target="bank"><u>:: คลิกเพื่อ ลงทะเบียน ::</u></a>
 	</h2>
 	<h3>
 		พิเศษ!!! สำหรับผู้ลงทะเบียนประเภท Regular ในช่วง

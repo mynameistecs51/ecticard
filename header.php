@@ -132,7 +132,7 @@
       </ul>
     </li>
     <li>
-     <a href="regis.php">REGISTER&SUBMISSION</a>
+     <a href="regis.php">REGISTRATION</a>
    </li>
    <li role="presentation" class="dropdown">
      <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
