@@ -121,18 +121,18 @@
         </li>
         <li role="presentation" class="dropdown">
          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-          SUBMISSION <span class="caret"></span>
+          PAPER <span class="caret"></span>
         </a>
         <ul class="dropdown-menu" >
           <li><a href="call_for_paper.php">CALL FOR PAPER</a></li>
           <li><a href="important_dates.php">IMPORTANT DATES</a></li>
           <li><a href="downloadForm.php">PAPER GUIDE</a></li>
-        <!--   <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
-        <li><a href="downloadForm.php">DOWNLOAD FORM</a></li> -->
+          <li><a href="paperSubmission.php">PAPER SUBMISSION</a></li>
+        <!-- <li><a href="downloadForm.php">DOWNLOAD FORM</a></li> -->
       </ul>
     </li>
     <li>
-     <a href="regis.php">REGISTRATION</a>
+     <a href="regis.php">REGISTER&SUBMISSION</a>
    </li>
    <li role="presentation" class="dropdown">
      <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
@@ -144,7 +144,7 @@
       <li><a href="tour.php">TOUR</a></li>
     </ul>
   </li>
-  <!-- <li><a href="sponsor.php">SPONSOR</a></li> -->
+  <li><a href="sponsor.php">SPONSOR</a></li>
   <li><a href="host.php">HOST</a></li>
   <li><a href="contact.php">CONTACT</a></li>
 </ul>

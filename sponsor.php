@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
-<div class="row">
+<!-- <div class="row">
 	<div class="col-sm-6 col-md-4">
 		<div class="thumbnail">
 			<img src="assets/img/udru.gif" alt="..." style="width: 200px;">
@@ -57,5 +57,8 @@
 		ก่อตั้ง: 29 กันยายน 2516
 		โทรศัพท์: 042 813 060
 	</div>
+</div> -->
+<div class="row">
+	<h1>++   รอข้อมูล  ++</h1>
 </div>
 <?php include 'footer.php';?>
