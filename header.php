@@ -110,13 +110,13 @@
             PROGRAM<span class="caret"></span>
           </a>
           <ul class="dropdown-menu" >
-            <li><a href="#">WELCOME MESSAGE</a></li>
-            <li><a href="#">KEYNOTE SPEAKER</a></li>
+            <li><a href="welcomMessage.php">WELCOME MESSAGE</a></li>
+            <li><a href="keynotespeaker.php">KEYNOTE SPEAKER</a></li>
             <li><a href="committee.php">COMMITTEE</a></li>
             <!-- <li><a href="#">PROGRAM AT A GLANCE</a></li> -->
-            <li><a href="#">PROGRAM FINAL</a></li>
-            <li><a href="#">JOURNAL EXTENSION</a></li>
-            <li><a href="#">BEST PAPER AWARD</a></li>
+            <li><a href="programfinal.php">PROGRAM FINAL</a></li>
+            <li><a href="journalExtension.php">JOURNAL EXTENSION</a></li>
+            <li><a href="basetPaperAward.php">BEST PAPER AWARD</a></li>
           </ul>
         </li>
         <li role="presentation" class="dropdown">

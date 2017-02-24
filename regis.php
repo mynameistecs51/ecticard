@@ -19,6 +19,9 @@
 	<h2 >
 		<a class="text-danger" href="http://ecticard2017.ecticard.org/submission/" target="bank"><u>:: คลิกเพื่อ ลงทะเบียน ::</u></a>
 	</h2>
+	<h2 >
+		<a class="text-danger" href="http://www.ecti-thailand.org/main/membership" target="bank"><u>:: คลิกเพื่อ สมัครสมาชิก(Ecti Member) ::</u></a>
+	</h2>
 	<h3>
 		พิเศษ!!! สำหรับผู้ลงทะเบียนประเภท Regular ในช่วง
 		Early Bird รับสิทธิ์เป็น ECTI Member ฟรี 1 ปี!!!

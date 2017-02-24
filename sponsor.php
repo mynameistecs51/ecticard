@@ -59,6 +59,22 @@
 	</div>
 </div> -->
 <div class="row">
-	<h1>++   รอข้อมูล  ++</h1>
+	<div class="row">
+		<div class="col-xs-6 col-md-3">
+			<a href="#" class="thumbnail">
+				<img src="assets/img/ecti-banner.PNG" alt="..." style="width:250px;height: 100px;">
+			</a>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<a href="#" class="thumbnail">
+				<img src="assets/img/Road.png" alt="..." style="width:250px;height: 100px;">
+			</a>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<a href="#" class="thumbnail">
+				<img src="assets/img/BannerNIMT.gif" alt="..." style="width:250px;height: 100px;">
+			</a>
+		</div>
+	</div>
 </div>
 <?php include 'footer.php';?>
