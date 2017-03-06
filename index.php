@@ -1,8 +1,13 @@
 <?php include 'header.php';?>
 
-<div class="row"><h1 align="center"><u> งานประชุมวิชาการ ECTI-CARD 2017 ครั้งที่ 9</u></h1></div>
+<div class="row">
+	<div class="col-sm-12">
+	<p><img src="assets/img/new_icon.gif" alt="" class="col-sm-2"><h2 class="col-sm-8 text-danger"> ขยายเวลาส่งบทความถึง 31 มีนาคม 2560</h2><img src="assets/img/new_icon.gif" alt="" class="col-sm-2"></p>
+	</div>
+</div>
 
 <div class="row">
+	<h1 align="center"><u> งานประชุมวิชาการ ECTI-CARD 2017 ครั้งที่ 9</u></h1>
 	<div class="col-sm-12">
 		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="height:300px;">
 			<!-- Indicators -->
