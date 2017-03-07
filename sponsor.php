@@ -59,22 +59,25 @@
 	</div>
 </div> -->
 <div class="row">
-	<div class="row">
-		<div class="col-xs-6 col-md-3">
-			<a href="#" class="thumbnail">
-				<img src="assets/img/ecti-banner.PNG" alt="..." style="width:250px;height: 100px;">
-			</a>
-		</div>
-		<div class="col-xs-6 col-md-3">
-			<a href="#" class="thumbnail">
-				<img src="assets/img/Road.png" alt="..." style="width:250px;height: 100px;">
-			</a>
-		</div>
-		<div class="col-xs-6 col-md-3">
-			<a href="#" class="thumbnail">
-				<img src="assets/img/BannerNIMT.gif" alt="..." style="width:250px;height: 100px;">
-			</a>
-		</div>
+	<div class="col-xs-6 col-md-3">
+		<a href="#" class="thumbnail">
+			<img src="assets/img/ecti-banner.PNG" alt="..." style="width:250px;height: 100px;">
+		</a>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<a href="#" class="thumbnail">
+			<img src="assets/img/Road.png" alt="..." style="width:250px;height: 100px;">
+		</a>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<a href="#" class="thumbnail">
+			<img src="assets/img/BannerNIMT.gif" alt="..." style="width:250px;height: 100px;">
+		</a>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<a href="#" class="thumbnail">
+		<img src="assets/img/LOGO_GIC.png" alt="..." style="width:250px;height: 100px;">
+		</a>
 	</div>
 </div>
 <?php include 'footer.php';?>
