@@ -2,7 +2,11 @@
 
 <div class="row">
 	<div class="col-sm-12">
-	<p><img src="assets/img/new_icon.gif" alt="" class="col-sm-2"><h2 class="col-sm-8 text-danger"> ขยายเวลาส่งบทความถึง 31 มีนาคม 2560</h2><img src="assets/img/new_icon.gif" alt="" class="col-sm-2"></p>
+		<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+			<a href="training.php">
+				<p><h2 class="col-sm-8 text-danger"> หัวข้อบรรยาย ดิจิตอลมัลติมิเตอร์ (Digital Multimeter)  วิทยากร  นายทองศักดิ์  ทองบุญ</h2></p>
+			</a>
+		</marquee>
 	</div>
 </div>
 
