@@ -79,5 +79,10 @@
 		<img src="assets/img/LOGO_GIC.png" alt="..." style="width:250px;height: 100px;">
 		</a>
 	</div>
+	<div class="col-xs-6 col-md-3 col-sm-3">
+		<a href="#" class="thumbnail">
+		<img src="assets/img/logo_marigold.png" alt="..." style="width:250px;height: 100px;">
+		</a>
+	</div>
 </div>
 <?php include 'footer.php';?>
