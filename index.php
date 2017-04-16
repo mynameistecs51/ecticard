@@ -4,7 +4,10 @@
 	<div class="col-sm-12">
 		<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
 			<a href="training.php">
-				<p><h2 class="col-sm-8 text-danger"> หัวข้อบรรยาย ดิจิตอลมัลติมิเตอร์ (Digital Multimeter)  วิทยากร  นายทองศักดิ์  ทองบุญ</h2></p>
+				<p><h2 class="col-sm-8 text-danger">
+					หัวข้อบรรยายพิเศษในงาน ECTI-CRAD 2017 "การสอบเทียบดิจิทัลมัลติมิเตอร์" โดยสถาบันมาตรวิทยาแห่งชาติ
+					วิทยากร กองศักดิ์ ทองบุญ
+				</h2></p>
 			</a>
 		</marquee>
 	</div>
