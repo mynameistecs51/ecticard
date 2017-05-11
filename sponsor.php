@@ -61,22 +61,32 @@
 <div class="row">
 	<div class="col-xs-6 col-md-3">
 		<a href="#" class="thumbnail">
-			<img src="assets/img/ecti-banner.PNG" alt="..." style="width:250px;height: 100px;">
+			<img src="assets/img/ecti-banner.PNG" alt="..." style="width:250px;height: 140px;">
 		</a>
 	</div>
 	<div class="col-xs-6 col-md-3">
 		<a href="#" class="thumbnail">
-			<img src="assets/img/Road.png" alt="..." style="width:250px;height: 100px;">
+			<img src="assets/img/Road.png" alt="..." style="width:250px;height: 140px;">
 		</a>
 	</div>
 	<div class="col-xs-6 col-md-3">
 		<a href="#" class="thumbnail">
-			<img src="assets/img/BannerNIMT.gif" alt="..." style="width:250px;height: 100px;">
+			<img src="assets/img/BannerNIMT.gif" alt="..." style="width:250px;height: 140px;">
 		</a>
 	</div>
 	<div class="col-xs-6 col-md-3">
 		<a href="#" class="thumbnail">
-		<img src="assets/img/LOGO_GIC.png" alt="..." style="width:250px;height: 100px;">
+		<img src="assets/img/LOGO_GIC.png" alt="..." style="width:250px;height: 140px;">
+		</a>
+	</div>
+	<div class="col-xs-6 col-md-3 col-sm-3">
+		<a href="#" class="thumbnail">
+		<img src="assets/img/logo_marigold.png" alt="..." style="width:250px;height: 140px;">
+		</a>
+	</div>
+	<div class="col-xs-6 col-md-3 col-sm-3">
+		<a href="#" class="thumbnail">
+		<img src="assets/img/logo_aswell.jpg" alt="..." style="width:250px;height: 140px;">
 		</a>
 	</div>
 </div>
