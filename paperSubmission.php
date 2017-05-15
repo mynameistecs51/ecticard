@@ -19,6 +19,39 @@
 	<p><li style="text-indent: 1cm;" >กลุ่มที่ 12 : STEM เทคโนโลยีการศึกษา</li></p>
 	<p><li style="text-indent: 1cm;" >กลุ่มที่ 13 : หัวข้อมอื่น ๆ ที่เกี่ยวข้อง</li></p>
 
+	<p ><b style="color:red;"><u>Special Session on Emerging Technologies for Digital Smart Society</u></b></p>
+	<p>
+		<ol style="text-indent: 1cm;" >
+			- Invited Speaker: Assoc.Prof.Dr.Ekkarat Boonchieng (CMU)
+			Director of Center of Excellence in Community Health Informatics
+		</ol>
+		<ol style="text-indent: 1cm;" >
+			- Invited Speaker: Dr.Chanwit Boonchuay
+			CEO of SYNAPES (Thailand) Co., Ltd. (AI Tech)
+		</ol>
+	</p>
+
+	<p ><b style="color:red;"><u>Special Session on Data Processing for Biomedical, Energy, and Environmental Applications</u></b></p>
+	<p>
+		<ol style="text-indent: 1cm;" >
+			- Invited Speaker: Asst.Prof.Dr.Norrarat Wattanamongkhol (BUU)
+			Director of Innovation Safety for Quality of Life Environment
+			LOGO lab. ECIL (Electrical and Communication for Invention and Innovation)
+		</ol>
+	</p>
+	<p><hr></p>
+	<div class="col-sm-12" align="center">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-3">
+			<img src="./assets/img/logo-coeichi.jpg" alt="" width="120px;">
+		</div>
+		<div class="col-sm-3">
+			<img src="./assets/img/synapes.jpg" alt="" width="120px;">
+		</div>
+		<div class="col-sm-3">
+			<img src="./assets/img/ecil.png" alt="" width="120px;">
+		</div>
+	</div>
 	<p><b style="color:red;">ข้อแนะนำในการส่งบทความ</b></p>
 	<p><li style="text-indent: 1cm;" >1.รูปแบบการเขียนบทความจะต้องเป็นภาษาไทยหรือภาษาอังกฤษ(International Spacial Session) โดยรูปแบบจะแบ่งออกเป็น 2 คอลัมน์ และมีความยาวไม่เกิน 4 หน้ากระดาษ A4</li></p>
 	<p><li style="text-indent: 1cm;" >2.บทความที่ผ่านการพิจารณาจะได้รับการตีพิมพ์ใน proceeding โดยต้องมีการนำเสนอทุกบทความทั้งแบบวาจาหรือแบบโปสเตอร์ </li></p>
@@ -99,7 +132,5 @@
 		7. เอกสารอ้างอิง เฉพาะที่เกี่ยวข้องโดยตรงเท่านั้น
 	</p>
 	<!-- Download Template Poster -->
-
 </div>
-
 <?php include 'footer.php';?>
