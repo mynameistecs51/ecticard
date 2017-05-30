@@ -4,8 +4,10 @@
 		กำหนดชำระเงิน Early Bird ภายในวันที่ 9 มิถุนายน 2560 เพื่อตีพิมพ์ลง Proceeding  <b style="color:blue;"><a class="text-danger" href="http://ecticard2017.ecticard.org/submission/" target="bank"><u>ชำระเงิน</u></a></b> โดยสามารถศึกษาวิธีการตาม <b style="color:blue;"><a href="download.php?filename=manual.pdf"> <u>ขั้นตอนการส่งผลงาน</u></a></b>
 	</h3>
 </p>
-<p><br>
-	<h4 class="text-danger"><u>*** จากการได้ปรึกษากับ อ.อนันต์ ผลเพิ่ม ประธาน TPC ของงานประชุม ECTI-CARD 2017 ได้ข้อสรุปว่า จะดำเนินการออกหนังสือตอบรับบทความให้กับ Author ที่ต้องการเป็นรายๆไป โดยให้ส่งขอหนังสือตอบรับบทความและบอกรายละเอียด Paper ID ชื่อผู้แต่งบทความ มาที่ Email : ecti.secretary@gmail.com ค่ะ </u></h4>
+<p>
+	<h3 class="text-danger">
+		*** <u>วิธีการการขอออกหนังสือตอบรับบทความให้ผู้ส่งบทความ  ส่งข้อมูลและรายละเอียด Paper ID, ชื่อผู้แต่งบทความ มาที่ Email : ecti.secretary@gmail.com
+	</u></h3>
 </p>
 <p>
 	<h3>
@@ -13,11 +15,11 @@
 		*ผู้นำเสนอบทความทุกท่าน ต้องส่งไฟล์นำเสนอ (PPT และ PDF) ณ ห้องนำเสนอ ก่อนเริ่ม Session 15 นาที
 	</h3>
 </p>
-<p>
+<!-- <p>
 	<h3>
 		Download <b style="color:blue;">จดหมายตอบรับบทความ</b>
 	</h3>
-</p>
+</p> -->
 <p>
 	<h2 >
 		<a class="text-danger" href="http://ecticard2017.ecticard.org/submission/" target="bank"><u>:: คลิกเพื่อ ลงทะเบียน ::</u></a>
