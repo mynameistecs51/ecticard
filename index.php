@@ -121,7 +121,7 @@
 		<div class="col-sm-12"><h2 class="page-header">การเดินทาง  </h2></div>
 		<div class="col-sm-4">
 			<span class="page-header text-danger"><u>ขาเข้า</u></span>
-			<a class="lightbox thumbnail" href="assets/img/flight.png" data-littlelightbox-group="gallery" title="สายการบินขาเข้า  วันที่ 25/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;"/></a>
+			<a class="lightbox thumbnail" href="assets/img/flight.png" data-littlelightbox-group="gallery" title="สายการบินขาเข้า  วันที่ 25/7/2560"  ><img src="assets/img/flight.png" alt="" style="width:100%;height: 240px;"/></a>
 			<label>
 				เช็คสายการบิน :
 				<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
@@ -130,7 +130,7 @@
 		</div>
 		<div class="col-sm-4">
 			<span class="page-header text-danger"><u>ขาออกวันที่ 28/7/2560</u></span>
-			<a class="lightbox thumbnail" href="assets/img/flightOut28.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 28/7/2560"  ><img src="assets/img/flightOut28.png" alt="" style="width:100%;"/></a>
+			<a class="lightbox thumbnail" href="assets/img/flightOut28.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 28/7/2560"  ><img src="assets/img/flightOut28.png" alt="" style="width:100%;height: 240px;"/></a>
 			<label>
 				เช็คสายการบิน :
 				<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
@@ -139,14 +139,23 @@
 		</div>
 		<div class="col-sm-4">
 			<span class="page-header text-danger"><u>ขาออกวันที่ 29/7/2560</u></span>
-			<a class="lightbox thumbnail" href="assets/img/flightOut29.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/flightOut29.png" alt="" style="width:100%;"/></a>
+			<a class="lightbox thumbnail" href="assets/img/flightOut29.png" data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/flightOut29.png" alt="" style="width:100%;height: 240px;"/></a>
 			<label>
 				เช็คสายการบิน :
 				<a href="http://www.nokair.com/nokconnext/aspx/flightschedule.aspx"  target="_blank">NOK AIR</a> |
 				<a href="https://booking.airasia.com/Flight/Select?o1=LOE&d1=DMK&culture=th-TH&dd1=2017-07-29&ADT=1&CHD=0&inl=0&s=true&mon=true&cc=THB&c=false"  target="_blank">AIR ASIA</a>
 			</label>
 		</div>
+		<div class="col-sm-4">
+			<span class="page-header text-danger"><u>บริการที่พักการเดินทาง</u></span>
+			<a class="lightbox thumbnail" href="assets/img/ckEcti2017.PNG"  data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/ckEcti2017.PNG" alt="" style="width:100%;height: 240px;"/></a>
+			<label>
+				บริการ/สอบถาม ที่พัก, การเดินทาง, ท่องเที่ยว
+			</label>
+		</div>
 		<hr>
 	</div>
-
+	<script>
+		$('.lightbox').littleLightBox();
+	</script>
 	<?php include 'footer.php';?>
