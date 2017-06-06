@@ -39,7 +39,15 @@
 	</h3>
 </p>
 <p>
-
+	* หมายเหตุ <br>
+	1.Regular, ECTI-Member, Student Non Member, ECTI-Student-Member สามารถเข้าร่วมการนำเสนอผลงาน ชมการสาธิตผลงานและงานแสดงต่างๆ และจะได้รับ Proceeding, CD-ROM, Bag, Souvenir, Coffee-break, Lunch, Dinner banquet
+	<br>
+	2.Accompany สามารถเข้าร่วมฟังการนำเสนอผลงาน ชมการสาธิตผลงานและงานแสดงต่างๆ และจะได้รับ CD-ROM, Coffee-break, Lunch, Dinner banquet
+	<br>
+	3.บัตรเพิ่มเติมสำหรับ Dinner banquet สามารถติดต่อซื้อได้ที่โต๊ะลงทะเบียนในวันงาน (เด็กความสูงน้อยกว่า 120 ซม. ไม่ต้องใช้บัตร Dinner banquet)
+</p>
+<hr>
+<p>
 	ประสานงานได้ที่ : <br>
 
 	EMAIL : ecticard2017@gmail.com<br>

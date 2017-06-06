@@ -94,6 +94,11 @@
 			<img src="assets/img/LOGO_TRANSCODE.jpg" alt="..." style="width:250px;height: 140px;">
 		</a>
 	</div>
+	<div class="col-xs-6 col-md-3 col-sm-3">
+			<a class="lightbox thumbnail" href="assets/img/logo_ThaiEasyElec_education.png" data-littlelightbox-group="gallery" title="" >
+			<img src="assets/img/logo_ThaiEasyElec_education.png" alt="..." style="width:250px;height: 140px;">
+		</a>
+	</div>
 </div>
 
 
