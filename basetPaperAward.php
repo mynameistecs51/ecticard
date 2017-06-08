@@ -1,3 +1,6 @@
 <?php include 'header.php';?>
-<h1>รออัพเดทข้อมูล</h1>
+<div class="row ">
+	<!-- <p align="center"> .::  Best Paper Award from EXAT ::.</p> -->
+	<img src="assets/img/basePaperAwardformExtat.png" alt="" class="col-sm-12" style="width:100%">
+</div>
 <?php include 'footer.php'; ?>
