@@ -113,7 +113,7 @@
             <li><a href="welcomMessage.php">WELCOME MESSAGE</a></li>
             <li><a href="keynotespeaker.php">KEYNOTE SPEAKER</a></li>
             <li><a href="committee.php">COMMITTEE</a></li>
-            <li><a href="program_at_grance.php">PROGRAM AT GRANCE</a></li>
+            <li><a href="program_at_grance.php">Program at a Glance</a></li>
             <li><a href="programfinal.php">PROGRAM FINAL</a></li>
             <li><a href="journalExtension.php">JOURNAL EXTENSION</a></li>
             <li><a href="basetPaperAward.php">BEST PAPER AWARD</a></li>
