@@ -142,6 +142,30 @@
 		</tr>
 		<tr>
 			<td >
+				<h3 class="page-header text-danger">Steering Committee</h3>
+				<div class="col-sm-9">
+					<table width="100%" class="table table-striped ">
+						<tr >
+							<td class="col-sm-4">ศ.ดร.ประภาส</td>
+							<td class="col-sm-4">จงสถิตวัฒนา </td>
+							<td class="col-sm-4">(จุฬาลงกรณ์มหาวิทยาลัย)</td>
+						</tr>
+						<tr>
+							<td class="col-sm-4">รศ.ดร.อนันต์ </td>
+							<td class="col-sm-4">ผลเพิ่ม </td>
+							<td class="col-sm-4">(มหาวิทยาลัยเกษตรศาสตร์)</td>
+						</tr>
+						<tr>
+							<td class="col-sm-4">ผศ.ดร.ชัยวัฒน์</td>
+							<td class="col-sm-4"> สากุล</td>
+							<td class="col-sm-4"> (มทร.ศรีวิชัย)</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td >
 				<h3 class="page-header text-danger">Technical Program Chairs</h3>
 				<div class="col-sm-9">
 					<table width="100%" class="table table-striped ">
