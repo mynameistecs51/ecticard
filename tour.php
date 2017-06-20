@@ -94,25 +94,62 @@
 								</div>
 							</li>
 							<li >
-							<div class="timeline-badge"><i class="fa fa-check"></i>
-							</div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h4 class="timeline-title">วัดผาตากเสื้อ</h4>
-									<img src="http://paiduaykan.com/province/Northeast/nongkhai/pic/watphataksue16.jpg" alt="" class="col-sm-12">
+								<div class="timeline-badge"><i class="fa fa-check"></i>
 								</div>
-								<div class="timeline-body">
-									<p>วัดผาตากเสื้อ ที่ตั้งอยู่บนเขาในเขตอำเภอสังคม จังหวัดหนองคาย เดิมชื่อวัดถ้ำพระ หลวงปู่เพชร ปะทีโป ท่านได้เดินทางมาปฏิบัติธรรม บริเวณถ้ำพระและได้ก่อตั้งวัดผาตากเสื้อขึ้น เมื่อปี พ.ศ.2477 มีเนื้อที่ 29 ไร่ 2 งาน 78 ตารางวา วัดผาตากเสื้อเป็นวัดปฏิบัติธรรม ต่อมาได้อัญเชิญพระสารีริกธาตุมาประดิษฐานเมื่อ 2 เมษายน 2550 เป็นที่สักการะของพุทธศาสนิกชนทั่วไป เป็นวัดที่มีทิวทัศน์สวยงาม มาก สูงจากระดับน้ำทะเล 550 เมตร ภายในวัดมีธรรมชาติที่สมบูรณ์ เป็นจุดชมวิวแม่น้ำโขงที่สวยที่สุดแห่งหนึ่ง ในช่วงที่น้ำลดหากไปยืน อยู่บนวัดผาตากเสื้อแล้วมองลงมายังแม่น้ำโขง จะเห็นสันทรายเป็นริ้วคล้ายเกล็ดพญานาคอย่างชัดเจน โดยได้รับการตั้งให้เป็นแหล่ง ท่องเที่ยวเส้นทางในฝัน Dream Destination 2  จาก ท ท ท นั่นก็คือ "เกล็ดพญานาคริมโขง"  ซึ่งเป็นความมหัศจรรย์ที่ธรรมชาติสร้างขึ้น ได้อย่างน่าพิศวง .............
-										ขอบคุณที่มา : <a href="http://paiduaykan.com/province/Northeast/nongkhai/watphataksue.html" target="_bank">http://paiduaykan.com/</a> </p>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h4 class="timeline-title">วัดผาตากเสื้อ</h4>
+										<img src="http://paiduaykan.com/province/Northeast/nongkhai/pic/watphataksue16.jpg" alt="" class="col-sm-12">
 									</div>
-								</div>
-							</li>
-						</ul>
+									<div class="timeline-body">
+										<p>วัดผาตากเสื้อ ที่ตั้งอยู่บนเขาในเขตอำเภอสังคม จังหวัดหนองคาย เดิมชื่อวัดถ้ำพระ หลวงปู่เพชร ปะทีโป ท่านได้เดินทางมาปฏิบัติธรรม บริเวณถ้ำพระและได้ก่อตั้งวัดผาตากเสื้อขึ้น เมื่อปี พ.ศ.2477 มีเนื้อที่ 29 ไร่ 2 งาน 78 ตารางวา วัดผาตากเสื้อเป็นวัดปฏิบัติธรรม ต่อมาได้อัญเชิญพระสารีริกธาตุมาประดิษฐานเมื่อ 2 เมษายน 2550 เป็นที่สักการะของพุทธศาสนิกชนทั่วไป เป็นวัดที่มีทิวทัศน์สวยงาม มาก สูงจากระดับน้ำทะเล 550 เมตร ภายในวัดมีธรรมชาติที่สมบูรณ์ เป็นจุดชมวิวแม่น้ำโขงที่สวยที่สุดแห่งหนึ่ง ในช่วงที่น้ำลดหากไปยืน อยู่บนวัดผาตากเสื้อแล้วมองลงมายังแม่น้ำโขง จะเห็นสันทรายเป็นริ้วคล้ายเกล็ดพญานาคอย่างชัดเจน โดยได้รับการตั้งให้เป็นแหล่ง ท่องเที่ยวเส้นทางในฝัน Dream Destination 2  จาก ท ท ท นั่นก็คือ "เกล็ดพญานาคริมโขง"  ซึ่งเป็นความมหัศจรรย์ที่ธรรมชาติสร้างขึ้น ได้อย่างน่าพิศวง .............
+											ขอบคุณที่มา : <a href="http://paiduaykan.com/province/Northeast/nongkhai/watphataksue.html" target="_bank">http://paiduaykan.com/</a> </p>
+										</div>
+									</div>
+								</li>
+								<li class="timeline-inverted">
+									<div class="timeline-badge"><i class="fa fa-check"></i>
+									</div>
+									<div class="timeline-panel">
+										<div class="timeline-heading">
+											<h4 class="timeline-title">สภ.เชียงคาน</h4>
+											<img src="assets/img/tour/police.PNG" alt="" class="col-sm-12">
+										</div>
+										<div class="timeline-body">
+											<div class=" col-sm-6 clearfix">
+												<a class="lightbox thumbnail" href="assets/img/tour/police5.JPG" data-littlelightbox-group="gallery" title="" >
+													<img src="assets/img/tour/police5.JPG" alt="..." style="width:250px;height: 140px;">
+												</a>
+											</div>
+											<div class=" col-sm-6 clearfix">
+												<a class="lightbox thumbnail" href="assets/img/tour/police2.JPG" data-littlelightbox-group="gallery" title="" >
+													<img src="assets/img/tour/police2.JPG" alt="..." style="width:250px;height: 140px;">
+												</a>
+											</div>
+											<div class=" col-sm-6 clearfix">
+												<a class="lightbox thumbnail" href="assets/img/tour/police3.JPG" data-littlelightbox-group="gallery" title="" >
+													<img src="assets/img/tour/police3.JPG" alt="..." style="width:250px;height: 140px;">
+												</a>
+											</div>
+											<div class=" col-sm-6 clearfix">
+												<a class="lightbox thumbnail" href="assets/img/tour/police4.JPG" data-littlelightbox-group="gallery" title="" >
+													<img src="assets/img/tour/police4.JPG" alt="..." style="width:250px;height: 140px;">
+												</a>
+											</div>
+											<br>
+											<p><a href="http://cheangkhan.loei.police.go.th/index1.htm" target="_bank">สภ เชียงคาน</a> </p>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<!-- /.panel-body -->
 					</div>
-					<!-- /.panel-body -->
+					<!-- /.panel -->
 				</div>
-				<!-- /.panel -->
 			</div>
-		</div>
 
-		<?php include 'footer.php';?>
+			<script>
+				$('.lightbox').littleLightBox();
+			</script>
+			<?php include 'footer.php';?>
