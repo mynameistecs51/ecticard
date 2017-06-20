@@ -115,6 +115,7 @@
 		</a>
 	</div>
 	<div class="col-xs-6 col-md-3 col-sm-3">
+<<<<<<< HEAD
 		<a class="lightbox thumbnail" href="assets/img/logo_iceLed.jpg" data-littlelightbox-group="gallery" title="" >
 			<img src="assets/img/logo_iceLed.jpg" alt="..." style="width:250px;height: 140px;">
 		</a>
@@ -137,6 +138,10 @@
 	<div class="col-xs-6 col-md-3 col-sm-3">
 		<a class="lightbox thumbnail" href="assets/img/logo_ITS.jpg" data-littlelightbox-group="gallery" title="" >
 			<img src="assets/img/logo_ITS.jpg" alt="..." style="width:250px;height: 140px;">
+=======
+		<a class="lightbox thumbnail" href="assets/img/logo_Forth.jpg" data-littlelightbox-group="gallery" title="" >
+			<img src="assets/img/logo_Forth.jpg" alt="..." style="width:250px;height: 140px;">
+>>>>>>> origin/master
 		</a>
 	</div>
 </div>
