@@ -52,6 +52,26 @@
 			<img src="./assets/img/ecil.png" alt="" width="120px;">
 		</div>
 	</div>
+	<div class="col-sm-12"><hr></div>
+	<p><b style="color:red;">วิทยากรบรรยายพิเศษ</b></p>
+	<div class="col-sm-12">
+		<div class="col-sm-4">
+			<a class="lightbox thumbnail" href="assets/img/precent1.jpg" data-littlelightbox-group="gallery" title="" >
+				<img src="assets/img/precent1.jpg" alt="..." >
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a class="lightbox thumbnail" href="assets/img/precent2.jpg" data-littlelightbox-group="gallery" title="" >
+				<img src="assets/img/precent2.jpg" alt="..." >
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a class="lightbox thumbnail" href="assets/img/precent3.jpg" data-littlelightbox-group="gallery" title="" >
+				<img src="assets/img/precent3.jpg" alt="..." >
+			</a>
+		</div>
+	</div>
+	<div class="col-sm-12"><hr></div>
 	<p><b style="color:red;">ข้อแนะนำในการส่งบทความ</b></p>
 	<p><li style="text-indent: 1cm;" >1.รูปแบบการเขียนบทความจะต้องเป็นภาษาไทยหรือภาษาอังกฤษ(International Spacial Session) โดยรูปแบบจะแบ่งออกเป็น 2 คอลัมน์ และมีความยาวไม่เกิน 4 หน้ากระดาษ A4</li></p>
 	<p><li style="text-indent: 1cm;" >2.บทความที่ผ่านการพิจารณาจะได้รับการตีพิมพ์ใน proceeding โดยต้องมีการนำเสนอทุกบทความทั้งแบบวาจาหรือแบบโปสเตอร์ </li></p>
@@ -133,4 +153,8 @@
 	</p>
 	<!-- Download Template Poster -->
 </div>
+
+<script>
+	$('.lightbox').littleLightBox();
+</script>
 <?php include 'footer.php';?>

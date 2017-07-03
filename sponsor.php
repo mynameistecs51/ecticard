@@ -85,6 +85,21 @@
 			<img src="assets/img/logo_Forth.jpg" alt="..." style="width:250px;height: 140px;">
 		</a>
 	</div>
+	<div class="col-xs-6 col-md-3 col-sm-3">
+		<a class="lightbox thumbnail" href="assets/img/logo_Trane.JPG" data-littlelightbox-group="gallery" title="" >
+			<img src="assets/img/logo_Trane.JPG" alt="..." style="width:250px;height: 140px;">
+		</a>
+	</div>
+	<div class="col-xs-6 col-md-3 col-sm-3">
+		<a class="lightbox thumbnail" href="assets/img/logo_DRKtech.png" data-littlelightbox-group="gallery" title="" >
+			<img src="assets/img/logo_DRKtech.png" alt="..." style="width:250px;height: 140px;">
+		</a>
+	</div>
+	<div class="col-xs-6 col-md-3 col-sm-3">
+		<a class="lightbox thumbnail" href="assets/img/logo_drkPower.png" data-littlelightbox-group="gallery" title="" >
+			<img src="assets/img/logo_drkPower.png" alt="..." style="width:250px;height: 140px;">
+		</a>
+	</div>
 </div>
 
 <script>
