@@ -2,21 +2,34 @@
 
 <div class="row">
 	<div class="col-sm-12">
-		<a href="hotel.php">
-			<p>
-				<div class="col-sm-2"></div>
-				<h1 class="col-sm-8 text-danger" style="text-align: center;color:red;">
-					<div><img src="assets/img/new_icon.gif" class="col-sm-2 pull-left" style="margin-left:5px;" >ที่พัก ใกล้เคียงสถานที่จัดงาน</div>
-				</h1>
-			</p>
-		</a>
-		<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+		<p>
+			<!-- <div class="col-sm-2"></div> -->
+			<h4  style="text-align: center;color:red;">
+				<div >
+					<a href="hotel.php">
+						<img src="assets/img/new_icon.gif" style="margin-left:5px;width: 100px;" >
+						<span style="color:red;">ที่พัก ใกล้เคียงสถานที่จัดงาน</span>
+					</a>
+					||
+					<a href="presend_digitalmulti.php">
+						<span style="color:red;">** เปิดอบรม "การใช้งานดิจิตอลมัลติมิเตอร์</span>
+					</a>
+					||
+					<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank">
+						<span style="color:red;"> เสวนากาแฟ..."แสงฉายที่ชายโขง (๒)</span>
+					</a>
+				</div>
+			</h4>
+		</p>
+		<!-- <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> -->
+		<!-- <p class="col-sm-12">
 			<a href="presend_digitalmulti.php">
-				<p>
-				<h2 style="text-align: center;color:red;"> ** เปิดอบรม "การใช้งานดิจิตอลมัลติมิเตอร์ (Digital Multimeter) วิธีการการสอบเทียบและการประเมินผล" **</h2>
-				</p>
+				<h2 style="text-align: center;color:red;">
+					** เปิดอบรม "การใช้งานดิจิตอลมัลติมิเตอร์ (Digital Multimeter) วิธีการการสอบเทียบและการประเมินผล" **
+				</h2>
 			</a>
-		</marquee>
+		</p> -->
+		<!-- </marquee> -->
 	</div>
 </div>
 
@@ -153,9 +166,16 @@
 	</div>
 	<div class="col-sm-4">
 		<span class="page-header text-danger"><u>บริการที่พักการเดินทาง</u></span>
-		<a class="lightbox thumbnail" href="assets/img/ckEcti2017.PNG"  data-littlelightbox-group="gallery" title="สายการบินขาออก วันที่ 29/7/2560"  ><img src="assets/img/ckEcti2017.PNG" alt="" style="width:100%;height: 240px;"/></a>
+		<a class="lightbox thumbnail" href="assets/img/ckEcti2017.PNG"  data-littlelightbox-group="gallery" title=""  ><img src="assets/img/ckEcti2017.PNG" alt="" style="width:100%;height: 240px;"/></a>
 		<label>
 			บริการ/สอบถาม ที่พัก, การเดินทาง, ท่องเที่ยว
+		</label>
+	</div>
+	<div class="col-sm-4">
+		<span class="page-header text-danger"><u>แสงฉายที่ขายโขง</u></span>
+		<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank" title=""  ><img src="assets/img/chaikhon.png" alt="" style="width:100%;height: 100px;"/></a>
+		<label>
+			แสงฉายที่ขายโขง
 		</label>
 	</div>
 	<hr>
