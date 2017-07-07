@@ -16,20 +16,11 @@
 					</a>
 					||
 					<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank">
-						<span style="color:red;"> เสวนากาแฟ..."แสงฉายที่ชายโขง (๒)</span>
+						<span style="color:red;">เสวนากาแฟ..แสงฉายที่ขายโขง (๒)</span>
 					</a>
 				</div>
 			</h4>
 		</p>
-		<!-- <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> -->
-		<!-- <p class="col-sm-12">
-			<a href="presend_digitalmulti.php">
-				<h2 style="text-align: center;color:red;">
-					** เปิดอบรม "การใช้งานดิจิตอลมัลติมิเตอร์ (Digital Multimeter) วิธีการการสอบเทียบและการประเมินผล" **
-				</h2>
-			</a>
-		</p> -->
-		<!-- </marquee> -->
 	</div>
 </div>
 
@@ -171,7 +162,7 @@
 			บริการ/สอบถาม ที่พัก, การเดินทาง, ท่องเที่ยว
 		</label>
 	</div>
-	<div class="col-sm-4">
+	<div class="col-sm-8">
 		<span class="page-header text-danger"><u>แสงฉายที่ขายโขง</u></span>
 		<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank" title=""  ><img src="assets/img/chaikhon.png" alt="" style="width:100%;height: 100px;"/></a>
 		<label>
