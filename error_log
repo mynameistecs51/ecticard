@@ -1,0 +1,1 @@
+[02-Jul-2017 15:41:14 Asia/Bangkok] PHP Warning:  readfile(assets/file/ecticard2017-schedulexxxxxxxxxxxpdf): failed to open stream: No such file or directory in /home/cp217205/public_html/ecti-card.org/card-2017/download.php on line 10
