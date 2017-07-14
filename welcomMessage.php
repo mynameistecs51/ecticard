@@ -1,3 +1,9 @@
 <?php include 'header.php';?>
-<h1>รออัพเดทข้อมูล</h1>
-<?php include 'footer.php'; ?>
+<div class="row">
+	<hr>
+</div>
+<div class="row ">
+	<p>.:: WELCOME MESSAGE ::.</p>
+	<img src="assets/file/welcommessage.jpg" alt="" class="col-sm-12" style="width:100%">
+</div>
+<?php include 'footer.php';?>
