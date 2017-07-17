@@ -165,9 +165,8 @@
 	<div class="col-sm-8">
 		<span class="page-header text-danger"><u>แสงฉายที่ขายโขง</u></span>
 		<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank" title=""  ><img src="assets/img/chaikhon.png" alt="" style="width:100%;height: 100px;"/></a>
-		<label>
-			แสงฉายที่ขายโขง
-		</label>
+		<img src="assets/img/texi.jpg" alt="" style="width:40%;height: 150px;" class="thumbnail pull-left" />
+		<img src="assets/img/carraint.jpg" alt="" style="width:40%;height: 150px;" class="thumbnail" />
 	</div>
 	<hr>
 </div>
