@@ -21,7 +21,7 @@
 					<br>
 					<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank">
 						<u>
-							<span style="color:red;">** เสวนากาแฟ..แสงฉายที่ขายโขง (๒)   27 กรกฎาคม 2560 เวลา 16.00 น - 27.00 น. **</span>
+							<span style="color:red;">** เสวนากาแฟ..แสงฉายที่ขายโขง (๒)   27 กรกฎาคม 2560 เวลา 16.00 น - 16.45 น. **</span>
 						</u>
 					</a>
 				</div>
@@ -161,18 +161,21 @@
 			<a href="https://booking.airasia.com/Flight/Select?o1=LOE&d1=DMK&culture=th-TH&dd1=2017-07-29&ADT=1&CHD=0&inl=0&s=true&mon=true&cc=THB&c=false"  target="_blank">AIR ASIA</a>
 		</label>
 	</div>
-	<div class="col-sm-4">
+	<!-- <div class="col-sm-4">
 		<span class="page-header text-danger"><u>บริการที่พักการเดินทาง</u></span>
 		<a class="lightbox thumbnail" href="assets/img/ckEcti2017.PNG"  data-littlelightbox-group="gallery" title=""  ><img src="assets/img/ckEcti2017.PNG" alt="" style="width:100%;height: 240px;"/></a>
 		<label>
 			บริการ/สอบถาม ที่พัก, การเดินทาง, ท่องเที่ยว
 		</label>
-	</div>
-	<div class="col-sm-8">
+	</div> -->
+	<div class="col-sm-12" >
 		<span class="page-header text-danger"><u>แสงฉายที่ขายโขง</u></span>
 		<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank" title=""  ><img src="assets/img/chaikhon.png" alt="" style="width:100%;height: 100px;"/></a>
-		<img src="assets/img/texi.jpg" alt="" style="width:40%;height: 150px;" class="thumbnail pull-left" />
-		<img src="assets/img/carraint.jpg" alt="" style="width:40%;height: 150px;" class="thumbnail" />
+
+		<div align="center" >
+			<img src="assets/img/texi.jpg" alt="" style="width:40%;height: 200px;" class="thumbnail pull-left" />
+			<img src="assets/img/carraint.jpg" alt="" style="width:40%;height: 200px;" class="thumbnail" />
+		</div>
 	</div>
 	<hr>
 </div>
