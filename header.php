@@ -148,6 +148,7 @@
   <li><a href="sponsor.php">SPONSOR</a></li>
   <li><a href="host.php">HOST</a></li>
   <li><a href="contact.php">CONTACT</a></li>
+  <li><a href="proceeding.php">PROCEEDING</a></li>
 </ul>
 </div>
 <!-- /.navbar-collapse -->

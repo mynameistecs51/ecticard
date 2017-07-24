@@ -7,16 +7,22 @@
 			<h4  style="text-align: center;color:red;">
 				<div >
 					<a href="hotel.php">
-						<img src="assets/img/new_icon.gif" style="margin-left:5px;width: 100px;" >
-						<span style="color:red;">ที่พัก ใกล้เคียงสถานที่จัดงาน</span>
+						<u>
+							<!-- <img src="assets/img/new_icon.gif" style="margin-left:5px;width: 100px;" > -->
+							<span style="color:red;">** ที่พัก ใกล้เคียงสถานที่จัดงาน **</span>
+						</u>
 					</a>
-					||
+					<br>
 					<a href="presend_digitalmulti.php">
-						<span style="color:red;">** เปิดอบรม "การใช้งานดิจิตอลมัลติมิเตอร์</span>
+						<u>
+							<span style="color:red;">** เปิดอบรม "การใช้งานดิจิตอลมัลติมิเตอร์ 26 กรกฎาคม 2560 เวลา 09.00 น. - 12.00 น. **</span>
+						</u>
 					</a>
-					||
+					<br>
 					<a href="https://www.quantum-thai.org/single-post/2017/07/06/Quantum-Computer-for-Classical-Computer-Engineering" target="_blank">
-						<span style="color:red;">เสวนากาแฟ..แสงฉายที่ขายโขง (๒)</span>
+						<u>
+							<span style="color:red;">** เสวนากาแฟ..แสงฉายที่ขายโขง (๒)   27 กรกฎาคม 2560 เวลา 16.00 น - 27.00 น. **</span>
+						</u>
 					</a>
 				</div>
 			</h4>

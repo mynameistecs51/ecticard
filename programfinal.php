@@ -1,3 +1,6 @@
 <?php include 'header.php';?>
-<h1>รออัพเดทข้อมูล</h1>
+<div class="row">
+	<img src="assets/img/final1.jpg" alt="" class="col-sm-12" style="width:100%">
+	<img src="assets/img/final2.jpg" alt="" class="col-sm-12" style="width:100%">
+</div>
 <?php include 'footer.php'; ?>
